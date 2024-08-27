@@ -33,11 +33,11 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
 
 ## Adversarial Attacks
 
-* **Downstream-agnostic Adversarial Examples** | [Github](https://github.com/CGCL-codes/AdvEncoder)
+* **Downstream-agnostic Adversarial Examples** |  [pdf](https://arxiv.org/pdf/2307.12280) [Code](https://github.com/CGCL-codes/AdvEncoder)
   * Ziqi Zhou,Shengshan Hu,Ruizhi Zhao,Qian Wang,Leo Yu Zhang, Junhui Hou, Hai Jin
   * School of Cyber Science and Engineering, Huazhong University of Science and Technology,School of Computer Science and Technology, Huazhong University of Science and Technology,School of Cyber Science and Engineering, Wuhan University,School of Information and Communication Technology, Griffith University,Department of Computer Science, City University of Hong Kong
-  * [Code](https://github.com/CGCL-codes/AdvEncoder.git)
-  * [ICCV2023](https://arxiv.org/pdf/2307.12280) 
+  * International Conference on Computer Vision ICCV 2023
+  
 ## Backdoor Attacks
 
 ## Privacy Attacks
