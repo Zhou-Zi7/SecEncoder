@@ -23,10 +23,10 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 
 **Table of Contents**
 
-- [Adversarial Attacks](#Adversarial Attacks)
-- [Backdoor Attacks](#Backdoor Attacks)
-- [Privacy Attacks](#Privacy Attacks)
-- [The Other Security Issues](#The Other Security Issues)
+- [Adversarial Attacks](#Adversarial-Attacks)
+- [Backdoor Attacks](#Backdoor-Attacks)
+- [Privacy Attacks](#Privacy-Attacks)
+- [The Other Security Issues](#The-Other-Security-Issues)
 
 ---
 
