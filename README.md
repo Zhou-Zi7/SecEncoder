@@ -187,6 +187,19 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
   
 ## Backdoor Attacks
 
+- **Backdoor Attacks for In-Context Learning with Language Models** [PDF](https://arxiv.org/abs/2307.14692)
+  - Nikhil Kandpal, Matthew Jagielski, Florian Tramèr, Nicholas Carlini
+  - UNC Chapel Hill, ETH Zurich
+  - [ICML 2023 Workshop AdvML-Frontiers]
+
+- **Privacy Backdoors: Enhancing Membership Inference** [PDF](https://arxiv.org/abs/2404.01231)
+  - Yiming Chen, Ruoxi Jia, Xiaoyu Cao, Jiayu Lin
+  - Department of Computer Science, Virginia Tech; Department of Electrical and Computer Engineering, Virginia Tech
+  - [ICLR 2024]
+
+- **An Embarrassingly Simple Backdoor Attack on Self-supervised Learning** [PDF](https://arxiv.org/abs/2210.07346)
+  - Changjiang Li, Ren Pang, Zhaohan Xi, Tianyu Du, Sh
+  - 
 ## Privacy Attacks
 
 ## The Other Security Issues
