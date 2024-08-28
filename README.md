@@ -33,18 +33,23 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
 
 ## Adversarial Attacks
 
+
+|                 | 2023 | 2024 | total |
+| :-------------: | :--: | :--: | :---: |
+| article numbers |  9   |  21  |  36   |
+
 - **Towards Adversarial Attack on Vision-Language Pre-training Models** [[pdf]](https://arxiv.org/abs/2206.09391) [[code]](https://github.com/adversarial-for-goodness/Co-Attack)
   - Jiaming Zhang,Qi Yi,Jitao Sang
   - Beijing Jiaotong University,Peng Cheng Lab
-  - Proceedings of the Association for Computing Machinery (ACM 2022)
+  - Proceedings of the ACM International Conference on Multimedia (ACM MM 2022)
 - **DI-AA: An Interpretable White-box Attack for Fooling Deep Neural Networks** [[pdf]](https://arxiv.org/abs/2110.07305)
   - Yixiang Wang,Jiqiang Liu,Xiaolin Chang,Jianhua Wang, Ricardo J. Rodríguez
   - Beijing Jiaotong University,University of Zaragoza
-  - Proceedings of the Elsevier (Elsevier 2022)
+  - Proceedings of the Information Sciences (Information Sciences 2022)
 - **Iterative Adversarial Attack on Image-guided Story Ending Generation** [[pdf]](https://arxiv.org/pdf/2305.13208v1)[[code]](https://github.com/frgfm/torch-cam)
   - Youze Wang, Wenbo Hu, Richang Hong
   - IEEE
-  - Proceedings of the Institute of Electrical and Electronics Engineers (IEEE 2023)
+  - Proceedings of the IEEE Transactions on Multimedia (TMM 2023)
 - **A Multi-task Adversarial Attack Against Face Authentication** [[pdf]](https://arxiv.org/abs/2408.08205) [[code]](https://github.com/azrealwang/mtadv)
   - HANRUI WANG,SHUO WANG,CUNJIAN CHEN, MASSIMO TISTARELLI, ZHE JIN
   - Shanghai Jiao Tong University,Monash University,University of Sassari,Anhui University
@@ -52,7 +57,7 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
 - **A Unified Understanding of Adversarial Vulnerability Regarding Unimodal Models and Vision-Language Pre-training Models** [[pdf]](https://arxiv.org/abs/2407.17797) [[code]](https://github.com/LibertazZ/FGA)
   - Haonan Zheng,Xinyang Deng,Wen Jiang,Wenrui Li
   - Northwestern Polytechnical University School of Electronics and Information,Harbin Institute of Technology Department of Computer Science and Technology
-  - arXiv 2024
+  - Proceedings of the ACM International Conference on Multimedia (ACM MM 2024)
 - **Adversarial Attacks on Both Face Recognition and Face Anti-spoofing Models** [[pdf]](https://arxiv.org/abs/2405.16940)
   - Fengfan Zhou, Qianyu Zhou, Xiangtai Li, Xuequan Lu, Lizhuang Ma, Hefei Ling
   - Huazhong University of Science and Technology,Shanghai Jiao Tong University,ByteDance,La Trobe University
@@ -68,7 +73,7 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
 - **AdvCLIP: Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning**[[pdf]](https://arxiv.org/abs/2308.07026) [[code]](https://github.com/CGCL-codes/AdvCLIP)
   * Ziqi Zhou,Shengshan Hu,Ruizhi Zhao,Qian Wang,Leo Yu Zhang, Junhui Hou, Hai Jin
   * Huazhong University of Science and Technology
-  * Proceedings of the Association for Computing Machinery (ACM 2023)
+  * Proceedings of the ACM International Conference on Multimedia (ACM MM 2023)
 - **Content-based Unrestricted Adversarial Attack** [[pdf]](https://arxiv.org/abs/2305.10665)
   - Zhaoyu Chen, Bo Li, Shuang Wu, Kaixun Jiang, Shouhong Ding, Wenqiang Zhang
   - Fudan University,Youtu Lab
@@ -80,7 +85,7 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
 - **Pre-trained Adversarial Perturbations** [[pdf]](https://arxiv.org/abs/2210.03372) [[code]](https://github.com/banyuanhao/PAP)
   - Yuanhao Ban,Yinpeng Dong
   - BNRist Center,Tsinghua-Bosch Joint ML Center, THBI Lab, Tsinghua University, ,RealAI
-  - arXiv 2024
+  - Proceedings of the Neural Information Processing Systems (NeurIPS 2022)
 - **CodeAttack: Code-Based Adversarial Attacks for Pre-trained Programming Language Models** [[pdf]](https://arxiv.org/abs/2206.00052) [[code]](https://github.com/reddy-lab-code-research/CodeAttack)
   - Akshita Jha,Chandan K. Reddy
   - Department of Computer Science, Virginia Tech
@@ -116,7 +121,7 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
 - **BLACK-BOX TARGETED ADVERSARIAL ATTACK ON SEGMENT ANYTHING (SAM)** [[pdf]](https://arxiv.org/abs/2310.10010)
   - Sheng Zheng,Chaoning Zhang,Xinhong Hao
   - Beijing Institute of Technology,Kyung Hee University
-  - arXiv 2024
+  - Proceedings of the International Conference on Learning Representations (ICLR 2024)
 - **Sample Efficient Detection and Classification of Adversarial Attacks via Self-Supervised Embeddings** [[pdf]](https://arxiv.org/abs/2108.13797)
   - Mazda Moayeri,Soheil Feizi
   - Department of Computer Science University of Maryland
@@ -132,11 +137,11 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
 - **Apollon: A robust defense system against Adversarial Machine Learning attacks in Intrusion Detection Systems** [[pdf]](https://www.sciencedirect.com/science/article/pii/S016740482300456X) [[code]](https://github.com/antoniopaya22/apollon)
   - Antonio Paya,Sergio Arroni,Vicente García-Díaz, Alberto Gómez
   - University of Oviedo
-  - Proceedings of the Elsevier (Elsevier 2024)
+  - Proceedings of the Computers & Security (Computers & Security 2024)
 - **Model-agnostic adversarial example detection via high-frequency amplification** [[pdf]](https://www.sciencedirect.com/science/article/pii/S0167404824000920)
   - Qiao Li,Jing Chen,Kun He,Zijun Zhang, Ruiying Du,Jisi She,Xinxin Wang
   - Key Laboratory of Aerospace Information Security and Trusted Computing, Ministry of Education, School of Cyber Science and Engineering,Rizhao Institute of Information Technology, Wuhan University,Collaborative Innovation Center of Geospatial Technology
-  - Proceedings of the Elsevier (Elsevier 2024)
+  - Proceedings of the Computers & Security (Computers & Security 2024)
 - A Self-supervised Approach for Adversarial Robustness [[pdf]](https://arxiv.org/abs/2006.04924) [[code]](https://github.com/
   Muzammal-Naseer/NRP)
   - Muzammal Naseer,Salman Khan,Munawar Hayat, Fahad Shahbaz Khan, Fatih Porikli
@@ -165,11 +170,11 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
 - **Securely Fine-tuning Pre-trained Encoders Against Adversarial Examples** [[pdf]](https://arxiv.org/abs/2403.10801) [[code]](https://github.com/CGCL-codes/Gen-AF)
   - Ziqi Zhou,Minghui Li,Wei Liu,Shengshan Hu,Yechao Zhang,Wei Wan,Lulu Xue,Leo Yu Zhang,Dezhong Yao,Hai Jin
   - National Engineering Research Center for Big Data Technology and System,Services Computing Technology and System Lab,Hubei Engineering Research Center on Big Data Security,Hubei Key Laboratory of Distributed System Security
-  - Proceedings of the Security and Privacy (S&P 2024)
+  - Proceedings of the IEEE Symposium on Security and Privacy (S&P 2024)
 - **Defense against Adversarial Cloud Attack on Remote Sensing Salient Object Detection** [[pdf]](https://arxiv.org/abs/2306.17431)
   - Huiming Sun,Lan Fu,Jinlong Li,Qing Guo,Zibo Meng,Tianyun Zhan,Yuewei Lin,Hongkai Yu
   - Cleveland State University ,OPPO US Research Center,IHPC and CFAR, Agency for Science, Technology and Research (A*STAR),Brookhaven National Laboratory
-  - Proceedings of the Workshop on Applications of Computer Vision (WACV2024)
+  - Proceedings of the IEEE Winter Conference on Applications of Computer Vision (WACV 2024)
 - **Sim-CLIP: Unsupervised Siamese Adversarial Fine-Tuning for Robust and Semantically-Rich Vision-Language Models** [[pdf]](https://arxiv.org/abs/2407.14971) 
   - Md Zarif Hossain,Ahmed Imteaj
   - Southern Illinois University, Security, Privacy and Intelligence for Edge Devices Laboratory (SPEED Lab)
