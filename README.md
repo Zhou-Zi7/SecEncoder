@@ -418,6 +418,11 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
  
 
 ## Privacy Attacks
+## Model steal
+
+|                 | 2020 | 2022 | 2023 | total |
+| :-------------: | :--: | :--: | :--: | :---: |
+| article numbers |  1   |   1  |   4  |   6   |
 - **Can’t Steal? Cont-Steal! Contrastive Stealing Attacks Against Image Encoders** [[pdf]](https://arxiv.org/abs/2407.14971) [[code]](https://github.com/jiamingzhang94/Adversarial-Prompt-Tuning)
   - Zeyang Sha, Xinlei He, Ning Yu, Michael Backes, Yang Zhang
   - CISPA Helmholtz Center for Information Security, Salesforce Research
@@ -425,7 +430,7 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
 - **IPES: Improved Pre-trained Encoder Stealing Attack in Contrastive Learning** [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10501814)
   - Chuan Zhang, Zhuopeng Li, Haotian Liang, Jinwen Liang, Ximeng Liu, Liehuang Zhu
   - School of Cyberspace Science and Technology, Beijing Institute of Technology, Beijing, China, Department of Computing, Hong Kong Polytechnic University, Hong Kong, China, College of Computer and Data Science, Fuzhou University, Fuzhou, China
-  - 2023 IEEE International Conferences on Internet of Things (iThings) and IEEE Green Computing & Communications (GreenCom) and IEEE Cyber, Physical & Social Computing (CPSCom) and IEEE Smart Data (SmartData) and IEEE Congress on Cybermatics (Cybermatics)
+  - IEEE International Conferences on Internet of Things (iThings 2023)
 - **PtbStolen: Pre-trained Encoder Stealing Through Perturbed Samples** [[pdf]](https://doi.org/10.1007/978-981-99-9614-8_1)
   - Chuan Zhang, Haotian Liang, Zhuopeng Li, Tong Wu, Licheng Wang, Liehuang Zhu
   - Beijing Institute of Technology, Beijing 100081, China, University of Science and Technology Beijing, Beijing 100081, China
@@ -443,6 +448,11 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
   - University of Florida, University of Central Florida, National Tsing Hua University
   - ISOC Network and Distributed System Security Symposium (NDSS 2020)
 
+## Watermark
+
+|                 | 2022 | 2023 | 2024 | total |
+| :-------------: | :--: | :--: | :--: | :---: |
+| article numbers |  2   |   2  |   6  |   10  |
 - **Transferable Watermarking to Self-supervised Pre-trained Graph Encoders by Trigger Embeddings** [[pdf]](https://arxiv.org/pdf/2406.13177)
   - Xiangyu Zhao, Hanzhou Wu, Xinpeng Zhang
   - School of Communication & Information Engineering, Shanghai University
@@ -463,6 +473,10 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
   - Hewang Nie, Songfeng Lu
   - Queen’s University at Kingston
   - Applied Intelligence (2024)
+- **SSLGuard: A Watermarking Scheme for Self-supervised Learning  Pre-trained Encoders** [[pdf]](https://arxiv.org/pdf/2201.11692)
+  - Peizhuo Lv, Pan Li, Shenchen Zhu, Shengzhi Zhang, Kai Chen, Ruigang Liang, Chang Yue, Fan Xiang, Yuling Cai, Hualong Ma, Yingjun Zhang, Guozhu Meng
+  - Institute of Information Engineering, Chinese Academy of Sciences, China, School of Cyber Security, University of Chinese Academy of Sciences, China, Department of Computer Science, Metropolitan College, Boston University, USA, Institute of Software, Chinese Academy of Sciences, China
+  - arXiv 2024
 - **AWEncoder: Adversarial Watermarking Pre-Trained Encoders in Contrastive Learning** [[pdf]](https://arxiv.org/pdf/2208.03948)
   - Tianxing Zhang, Hanzhou Wu, Xiaofeng Lu, Gengle Han, Guangling Sun
   - School of Communication and Information Engineering, Shanghai University, Wenzhou Institute, Shanghai University
@@ -471,10 +485,6 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
   - Peixuan Li, Pengzhou Cheng, Fangqi Li, Wei Du, Haodong Zhao, Gongshen Liu
   - Shanghai Jiao Tong University
   - Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2023)
-- **SSLGuard: A Watermarking Scheme for Self-supervised Learning  Pre-trained Encoders** [[pdf]](https://arxiv.org/pdf/2201.11692)
-  - Peizhuo Lv, Pan Li, Shenchen Zhu, Shengzhi Zhang, Kai Chen, Ruigang Liang, Chang Yue, Fan Xiang, Yuling Cai, Hualong Ma, Yingjun Zhang, Guozhu Meng
-  - Institute of Information Engineering, Chinese Academy of Sciences, China, School of Cyber Security, University of Chinese Academy of Sciences, China, Department of Computer Science, Metropolitan College, Boston University, USA, Institute of Software, Chinese Academy of Sciences, China
-  - arXiv 2024
 - **Watermarking Pre-trained Encoders in Contrastive Learning** [[pdf]](https://arxiv.org/pdf/2201.08217)
   - Yutong Wu, Han Qiu, Tianwei Zhang, Jiwei Li, Meikang Qiu
   - Tsinghua University, Nanyang Technological University, Shannon.AI, Zhejiang University, Texas A&M University
@@ -484,6 +494,12 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
   - Queen’s University at Kingston
   - ISOC Network and Distributed System Security Symposium (NDSS 2022)
 
+
+## Membership Infenrence Attack
+
+|                 | 2021 | 2022 | 2024 | total |
+| :-------------: | :--: | :--: | :--: | :---: |
+| article numbers |  2   |   1  |   5  |   8   |
 - **Privacy Backdoors: Stealing Data with Corrupted Pretrained Model** [[pdf]](https://arxiv.org/pdf/2404.00473) [[code]](https://github.com/ShanglunFengatETHZ/PrivacyBackdoor)
   - Shanglun Feng, Florian Tramer
   - ETHZurich
