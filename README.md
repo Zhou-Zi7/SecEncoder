@@ -6,7 +6,9 @@ Pre-trained encoders have drawn increasing attention in recent years due to its 
 Despite their remarkable capabilities, the increased complexity and deployment of  pre-trained encoders have also exposed them to various security threats and vulnerabilities, making the study of attacks on these models a critical area of research.
 
 Here, we've summarized existing attack and defense methods for pre-trained encoders in our survey paper👍.
-
+|                 | 2023 | 2024 | total |
+| :-------------: | :--: | :--: | :---: |
+| article numbers |  26  |  61  |  105  |
 
 > If you find some important work missed, it would be super helpful to let me know (zhouziqi@hust.edu.cn). Thanks!
 
@@ -426,9 +428,9 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 ## Privacy Attacks
 ## Model steal
 
-|                 | 2020 | 2022 | 2023 | total |
-| :-------------: | :--: | :--: | :--: | :---: |
-| article numbers |  1   |   1  |   4  |   6   |
+|                 | 2023 | 2024 | total |
+| :-------------: | :--: | :--: | :---: |
+| article numbers |  4   |  0   |   6   |
 - **Can’t Steal? Cont-Steal! Contrastive Stealing Attacks Against Image Encoders** [[pdf]](https://arxiv.org/abs/2407.14971) [[code]](https://github.com/jiamingzhang94/Adversarial-Prompt-Tuning)
   - Zeyang Sha, Xinlei He, Ning Yu, Michael Backes, Yang Zhang
   - CISPA Helmholtz Center for Information Security, Salesforce Research
@@ -456,9 +458,9 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 
 ## Watermark
 
-|                 | 2022 | 2023 | 2024 | total |
-| :-------------: | :--: | :--: | :--: | :---: |
-| article numbers |  2   |   2  |   6  |   10  |
+|                 | 2023 | 2024 | total |
+| :-------------: | :--: | :--: | :---: |
+| article numbers |  2   |  6   |  10   |
 - **Transferable Watermarking to Self-supervised Pre-trained Graph Encoders by Trigger Embeddings** [[pdf]](https://arxiv.org/pdf/2406.13177)
   - Xiangyu Zhao, Hanzhou Wu, Xinpeng Zhang
   - School of Communication & Information Engineering, Shanghai University
@@ -503,9 +505,9 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 
 ## Membership Infenrence Attack
 
-|                 | 2021 | 2022 | 2024 | total |
-| :-------------: | :--: | :--: | :--: | :---: |
-| article numbers |  2   |   1  |   5  |   8   |
+|                 | 2023 | 2024 | total |
+| :-------------: | :--: | :--: | :---: |
+| article numbers |  0   |  5   |   8   |
 - **Privacy Backdoors: Stealing Data with Corrupted Pretrained Model** [[pdf]](https://arxiv.org/pdf/2404.00473) [[code]](https://github.com/ShanglunFengatETHZ/PrivacyBackdoor)
   - Shanglun Feng, Florian Tramer
   - ETHZurich
