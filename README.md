@@ -437,7 +437,7 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
 - **IPES: Improved Pre-trained Encoder Stealing Attack in Contrastive Learning** [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10501814)
   - Chuan Zhang, Zhuopeng Li, Haotian Liang, Jinwen Liang, Ximeng Liu, Liehuang Zhu
   - School of Cyberspace Science and Technology, Beijing Institute of Technology, Beijing, China, Department of Computing, Hong Kong Polytechnic University, Hong Kong, China, College of Computer and Data Science, Fuzhou University, Fuzhou, China
-  - IEEE International Conferences on Internet of Things (iThings 2023)
+  - Proceedings of the IEEE International Conferences on Internet of Things (iThings 2023)
 - **PtbStolen: Pre-trained Encoder Stealing Through Perturbed Samples** [[pdf]](https://doi.org/10.1007/978-981-99-9614-8_1)
   - Chuan Zhang, Haotian Liang, Zhuopeng Li, Tong Wu, Licheng Wang, Liehuang Zhu
   - Beijing Institute of Technology, Beijing 100081, China, University of Science and Technology Beijing, Beijing 100081, China
