@@ -185,66 +185,67 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
   - arXiv 2024
 
   
+
 ## Backdoor Attacks
-
-- **Backdoor Attacks for In-Context Learning with Language Models** [[pdf]](https://arxiv.org/abs/2307.14692)
-  - Nikhil Kandpal, Matthew Jagielski, Florian Tramèr, Nicholas Carlini
-  - UNC Chapel Hill, ETH Zurich
-  - ICML 2023 Workshop AdvML-Frontiers
-
-- **Privacy Backdoors: Enhancing Membership Inference** [[pdf]](https://arxiv.org/abs/2404.01231)
-  - Yiming Chen, Ruoxi Jia, Xiaoyu Cao, Jiayu Lin
-  - Department of Computer Science, Virginia Tech; Department of Electrical and Computer Engineering, Virginia Tech
-  - ICLR 2024
 
 - **An Embarrassingly Simple Backdoor Attack on Self-supervised Learning** [[pdf]](https://arxiv.org/abs/2210.07346)
   - Changjiang Li, Ren Pang, Zhaohan Xi, Tianyu Du, Shouling Ji, Yuan Yao, Ting Wang
   - Pennsylvania State University, Zhejiang University, Nanjing University
   - ICCV 2023
 
-- **Anti-Backdoor Learning: Training Clean Models on Poisoned Data** [[pdf]](https://arxiv.org/abs/2110.11571)
-  - Jinyuan Jia, Yupei Liu, Neil Zhenqiang Gong
-  - Duke University
-  - ICLR 2021
-
-- **BADFSS: Backdoor Attacks on Federated Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2405.13080)
-  - Zhihao Cheng, Yunchang Zhang, Xuxian Jiang
-  - Huazhong University of Science and Technology, Tsinghua University, Zhejiang University
-  - ICML 2024
+- **Backdoor Attacks for In-Context Learning with Language Models** [[pdf]](https://arxiv.org/abs/2307.14692)
+  - Nikhil Kandpal, Matthew Jagielski, Florian Tramèr, Nicholas Carlini
+  - UNC Chapel Hill, ETH Zurich
+  - ICML 2023 Workshop AdvML-Frontiers
 
 - **Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger** [[pdf]](https://arxiv.org/abs/2302.14677)
   - Yi Yu, Yufei Wang, Wenhan Yang, Shijian Lu, Yap-Peng Tan, Alex C. Kot
   - Nanyang Technological University, Peng Cheng Laboratory, IGP-ROSE
   - IEEE Transactions on Information Forensics and Security (TIFS)
 
-- **Backdoor Attacks in the Supply Chain of Masked Image Modeling** [[pdf]](https://arxiv.org/abs/2210.01632)
-  - Weidi Zhang, Ziqiang Wang, Fang Song, Xu Chen, Aojun Zhou
-  - Xidian University, Hong Kong University of Science and Technology, Huawei Technologies
-  - arXiv 2022
+- **GhostEncoder: Stealthy Backdoor Attacks with Dynamic Triggers to Pre-trained Encoders** [[pdf]](https://arxiv.org/abs/2310.00626)
+  - Qiannan Wang, Changchun Yin, Zhe Liu, Liming Fang, Run Wang, Chenhao Lin
+  - Nanjing University of Aeronautics and Astronautics, Shenzhen Research Institute
+  - arXiv 2023
 
-- **Backdoor Attacks on Pre-trained Models by Layerwise Weight Poisoning** [[pdf]](https://arxiv.org/abs/2108.13888)
-  - Kang Liu, Brendan Dolan-Gavitt, Siddharth Garg
-  - New York University, Tandon School of Engineering
-  - arXiv 2021
+- **Privacy Backdoors: Enhancing Membership Inference** [[pdf]](https://arxiv.org/abs/2404.01231)
+  - Yiming Chen, Ruoxi Jia, Xiaoyu Cao, Jiayu Lin
+  - Department of Computer Science, Virginia Tech; Department of Electrical and Computer Engineering, Virginia Tech
+  - ICLR 2024
 
-- **Backdoor Attacks on Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2105.10123)
-  - Asil Kaan Bozkurt, Sahar Abdelnabi, M. Saad Al-Azzawi, Mario Fritz
-  - Max Planck Institute for Informatics
-  - ICLR 2021
+- **BADFSS: Backdoor Attacks on Federated Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2405.13080)
+  - Zhihao Cheng, Yunchang Zhang, Xuxian Jiang
+  - Huazhong University of Science and Technology, Tsinghua University, Zhejiang University
+  - ICML 2024
 
 - **Backdoor Contrastive Learning via Bi-level Trigger Optimization** [[pdf]](https://arxiv.org/abs/2404.07863)
   - Weiyu Sun, Xinyu Zhang, Yifan Liu, Yingyu Liang
   - University of Wisconsin-Madison, University of Illinois Urbana-Champaign
   - arXiv 2024
 
-- **Backdoor Attack with Imperceptible Input and Latent Modification** [[pdf]](https://arxiv.org/abs/2205.03190)
-  - Khoa D. Doan, Yingjie Lao, Weijie Zhao, Ping Li
-  - New Jersey Institute of Technology, Florida International University, Rutgers University
-  - NeurIPS 2021
+- **Invisible Backdoor Attacks on Key Regions Based on Target Neurons in Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2405.11551)
+  - Ning Zhang, Zhiwei Liu, Jing Liu, Zhen Liu
+  - Peking University, Tsinghua University, Beijing Institute of Technology
+  - arXiv 2024
 
-- **BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2108.00352)
-  - Kang Liu, Siddharth Garg, Brendan Dolan-Gavitt
-  - New York University
+- **SSLJBA: Joint Backdoor Attack on Both Robustness and Fairness of Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2405.14672)
+  - Xu Liu, Han Zhang, Jingwen Bai, Yingyu Liang
+  - University of Wisconsin-Madison, Huawei Noah’s Ark Lab
+  - arXiv 2024
+
+- **PoisonedEncoder: Poisoning the Unlabeled Pre-training Data in Contrastive Learning** [[pdf]](https://arxiv.org/abs/2205.06401)
+  - Hongbin Liu, Jinyuan Jia, Neil Gong
+  - Duke University
+  - arXiv 2024
+
+- **Distribution Preserving Backdoor Attack in Self-supervised Learning** [[pdf]](https://arxiv.org/abs/2405.10757)
+  - Khoa D. Doan, Weiqiang Wang, Shouling Ji, Liwei Wang
+  - Zhejiang University, University of Texas at Austin, Virginia Tech
+  - arXiv 2024
+
+- **TransTroj: Transferable Backdoor Attacks to Pre-trained Models via Embedding Indistinguishability** [[pdf]](https://arxiv.org/abs/2401.15883)
+  - Zhenyu Zhang, Hong Wang, Chuan Guo, Haiyu Zhao
+  - Tsinghua University, Tencent AI Lab
   - arXiv 2024
 
 - **Better Safe than Sorry: Pre-training CLIP against Targeted Data Poisoning and Backdoor Attacks** [[pdf]](https://arxiv.org/abs/2310.05862)
@@ -257,49 +258,9 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
   - Zhejiang University, University of Texas at Austin, Virginia Tech
   - arXiv 2024
 
-- **Data Poisoning based Backdoor Attacks to Contrastive Learning** [[pdf]](https://arxiv.org/abs/2211.08229)
-  - Weidi Zhang, Yuan Yao, Qinghua Zheng, Xu Chen
-  - Xidian University, University of Electronic Science and Technology of China
-  - arXiv 2024
-
-- **Distribution Preserving Backdoor Attack in Self-supervised Learning** [[pdf]](https://arxiv.org/abs/2405.10757)
-  - Khoa D. Doan, Weiqiang Wang, Shouling Ji, Liwei Wang
-  - Zhejiang University, University of Texas at Austin, Virginia Tech
-  - arXiv 2024
-
 - **ESTAS: Effective and Stable Trojan Attacks in Self-supervised Encoders with One Target** [[pdf]](https://arxiv.org/abs/2211.10908)
   - Jiaqi Xue, Qian Lou
   - University of Central Florida
-  - arXiv 2024
-
-- **GhostEncoder: Stealthy Backdoor Attacks with Dynamic Triggers to Pre-trained Encoders** [[pdf]](https://arxiv.org/abs/2310.00626)
-  - Qiannan Wang, Changchun Yin, Zhe Liu, Liming Fang, Run Wang, Chenhao Lin
-  - Nanjing University of Aeronautics and Astronautics, Shenzhen Research Institute
-  - arXiv 2023
-
-- **Invisible Backdoor Attacks on Key Regions Based on Target Neurons in Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2405.11551)
-  - Ning Zhang, Zhiwei Liu, Jing Liu, Zhen Liu
-  - Peking University, Tsinghua University, Beijing Institute of Technology
-  - arXiv 2024
-
-- **PoisonedEncoder: Poisoning the Unlabeled Pre-training Data in Contrastive Learning** [[pdf]](https://arxiv.org/abs/2205.06401)
-  - Hongbin Liu, Jinyuan Jia, Neil Gong
-  - Duke University
-  - arXiv 2024
-
-- **Poisoning And Back Dooring Contrastive Learning** [[pdf]](https://arxiv.org/abs/2106.09667)
-  - Nicholas Carlini, Andreas Terzis
-  - Google Research
-  - arXiv 2024
-
-- **SSLJBA: Joint Backdoor Attack on Both Robustness and Fairness of Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2405.14672)
-  - Xu Liu, Han Zhang, Jingwen Bai, Yingyu Liang
-  - University of Wisconsin-Madison, Huawei Noah’s Ark Lab
-  - arXiv 2024
-
-- **The Perils of Learning From Unlabeled Data: Backdoor Attacks on Semi-supervised Learning** [[pdf]](https://arxiv.org/abs/2211.00453)
-  - Virat Shejwalkar, Lingjuan Lyu, Amir Houmansadr
-  - University of Massachusetts Amherst, Sony AI
   - arXiv 2024
 
 - **Towards Imperceptible Backdoor Attack in Self-supervised Learning** [[pdf]](https://arxiv.org/abs/2405.14672)
@@ -307,9 +268,39 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
   - Tsinghua University, Beijing Institute of Technology
   - arXiv 2024
 
-- **TransTroj: Transferable Backdoor Attacks to Pre-trained Models via Embedding Indistinguishability** [[pdf]](https://arxiv.org/abs/2401.15883)
-  - Zhenyu Zhang, Hong Wang, Chuan Guo, Haiyu Zhao
-  - Tsinghua University, Tencent AI Lab
+- **Poisoning And Back Dooring Contrastive Learning** [[pdf]](https://arxiv.org/abs/2106.09667)
+  - Nicholas Carlini, Andreas Terzis
+  - Google Research
+  - arXiv 2024
+
+- **The Perils of Learning From Unlabeled Data: Backdoor Attacks on Semi-supervised Learning** [[pdf]](https://arxiv.org/abs/2211.00453)
+  - Virat Shejwalkar, Lingjuan Lyu, Amir Houmansadr
+  - University of Massachusetts Amherst, Sony AI
+  - arXiv 2024
+
+- **Anti-Backdoor Learning: Training Clean Models on Poisoned Data** [[pdf]](https://arxiv.org/abs/2110.11571)
+  - Jinyuan Jia, Yupei Liu, Neil Zhenqiang Gong
+  - Duke University
+  - ICLR 2021
+
+- **Backdoor Attacks on Pre-trained Models by Layerwise Weight Poisoning** [[pdf]](https://arxiv.org/abs/2108.13888)
+  - Kang Liu, Brendan Dolan-Gavitt, Siddharth Garg
+  - New York University, Tandon School of Engineering
+  - arXiv 2021
+
+- **Backdoor Attacks on Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2105.10123)
+  - Asil Kaan Bozkurt, Sahar Abdelnabi, M. Saad Al-Azzawi, Mario Fritz
+  - Max Planck Institute for Informatics
+  - ICLR 2021
+
+- **Backdoor Attacks in the Supply Chain of Masked Image Modeling** [[pdf]](https://arxiv.org/abs/2210.01632)
+  - Weidi Zhang, Ziqiang Wang, Fang Song, Xu Chen, Aojun Zhou
+  - Xidian University, Hong Kong University of Science and Technology, Huawei Technologies
+  - arXiv 2022
+
+- **BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2108.00352)
+  - Kang Liu, Siddharth Garg, Brendan Dolan-Gavitt
+  - New York University
   - arXiv 2024
 
 - **WITCHES’ BREW: Industrial Scale Data Poisoning via Gradient Matching** [[pdf]](https://arxiv.org/abs/2009.02276)
@@ -317,7 +308,122 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
   - University of Maryland, College Park
   - arXiv 2024
 
+- **Data Poisoning based Backdoor Attacks to Contrastive Learning** [[pdf]](https://arxiv.org/abs/2211.08229)
+  - Weidi Zhang, Yuan Yao, Qinghua Zheng, Xu Chen
+  - Xidian University, University of Electronic Science and Technology of China
+  - arXiv 2024
 
+## Backdoor Defense
+
+- **STRIP: A Defence Against Trojan Attacks on Deep Neural Networks** [[pdf]](https://arxiv.org/abs/1902.06531) [[code]](https://github.com/garrisongys/STRIP)
+  - Yansong Gao, Chang Xu, Derui Wang, Shiping Chen, Damith C. Ranasinghe, Surya Nepal
+  - University of New South Wales, Data61 CSIRO
+  - ACSAC 2019
+
+- **SSLGuard A Watermarking Scheme for Self-supervised Learning Pre-trained Encoders** [[pdf]](https://arxiv.org/abs/2201.11692) [[code]](https://github.com/tianshuocong/SSLGuard)
+  - Tianshuo Cong, Xinlei He, Yang Zhang
+  - Tsinghua University, CISPA Helmholtz Center for Information Security
+  - CCS 2022
+
+- **Backdoor Defense via Decoupling the Training Process** [[pdf]](https://openreview.net/forum?id=JcQZJr0lFDG) [[code]](https://github.com/SCLBD/DBD)
+  - Kunzhe Huang, Yiming Li, Baoyuan Wu, Zhan Qin, Kui Ren
+  - Zhejiang University, Chinese Academy of Sciences, The Hong Kong Polytechnic University
+  - ICLR 2022
+
+- **SSL-ABD: An Adversarial Defense Method Against Backdoor Attacks in Self-supervised Learning** [[pdf]](https://doi.org/10.1007/978-981-99-9785-5_32)
+  - Hui Yang, Ruilin Yang, Heqiu Cai, Xiao Zhang, Qingqi Pei, Shaowei Wang, Hongyang Yan
+  - Guangzhou University, China
+  - AIS&P 2023
+
+- **DLP towards active defense against backdoor attacks with decoupled learning process** [[pdf]](https://cybersecurity.springeropen.com/articles/10.1186/s42400-023-00141-4)
+  - Zonghao Ying, Bin Wu
+  - Beijing Institute of Technology, Shanghai Jiao Tong University
+  - Cybersecurity 2023
+
+- **The "Beatrix" Resurrections: Robust Backdoor Detection via Gram Matrices** [[pdf]](https://www.ndss-symposium.org/ndss-paper/he-htlc-revisiting-incentives-in-htlc/) [[code]](https://github.com/wanlunsec/Beatrix)
+  - Wanlun Ma, Derui Wang, Ruoxi Sun, Minhui Xue, Sheng Wen, Yang Xiang
+  - Swinburne University of Technology, CSIRO's Data61
+  - NDSS 2023
+
+- **Towards Understanding How Self-training Tolerates Data Backdoor Poisoning** [[pdf]](https://arxiv.org/abs/2301.08751)
+  - Soumyadeep Pal, Ren Wang, Yuguang Yao, Sijia Liu
+  - University of Alberta, Michigan State University, Illinois Institute of Technology
+  - AAAI 2023 Workshop
+
+- **Removing Backdoors in Pre-trained Models by Regularized Continual Pre-training** [[pdf]](https://aclanthology.org/2023.tacl-1.128)
+  - Biru Zhu, Ganqu Cui, Yangyi Chen, Yujia Qin, Lifan Yuan, Chong Fu, Yangdong Deng, Zhiyuan Liu, Maosong Sun, Ming Gu
+  - Tsinghua University, Beijing Institute of Technology, University of Illinois Urbana-Champaign
+  - TACL 2023
+
+- **CleanCLIP Mitigating Data Poisoning Attacks in Multimodal Contrastive Learning** [[pdf]](https://arxiv.org/abs/2303.03323) [[code]](https://github.com/nishadsinghi/CleanCLIP)
+  - Hritik Bansal, Nishad Singhi, Yu Yang, Fan Yin, Aditya Grover, Kai-Wei Chang
+  - University of California, Los Angeles UCLA, University of Tübingen
+  - ICCV 2023
+
+- **SSL-Cleanse Trojan Detection and Mitigation in Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2303.09079) [[code]](https://github.com/UCF-ML-Research/SSL-Cleanse)
+  - Mengxin Zheng, Jiaqi Xue, Zihao Wang, Xun Chen, Qian Lou, Lei Jiang, Xiaofeng Wang
+  - University of Central Florida, Indiana University Bloomington, Samsung Research America
+  - ECCV 2024
+
+- **EmInspector Combating Backdoor Attacks in Federated Self-Supervised Learning Through Embedding Inspection** [[pdf]](https://arxiv.org/abs/2405.13080) [[code]](https://github.com/ShuchiWu/EmInspector)
+  - Yuwen Qian, Shuchi Wu, Kang Wei, Ming Ding, Di Xiao, Tao Xiang, Chuan Ma, Song Guo
+  - University of Science and Technology of China, Tsinghua University, City University of Hong Kong
+  - arXiv 2024
+
+- **Erasing Self-Supervised Learning Backdoor by Cluster Activation Masking** [[pdf]](https://arxiv.org/abs/2312.07955)
+  - Yulin Wang, Ziqiang Wang, Ting Wang
+  - Tsinghua University, University of Electronic Science and Technology of China
+  - arXiv 2024
+
+- **On the Difficulty of Defending Contrastive Learning against Backdoor Attacks** [[pdf]](https://arxiv.org/abs/2312.09057)
+  - Changjiang Li, Ren Pang, Bochuan Cao, Zhaohan Xi, Jinghui Chen, Shouling Ji, Ting Wang
+  - Stony Brook University, Pennsylvania State University, Zhejiang University
+  - arXiv 2024
+
+- **Self-supervised learning backdoor defense mixed with self-attention mechanism** [[pdf]](https://arxiv.org/abs/2408.11679)
+  - Yuhang Ding, Chengyi Liu, Shu-Tao Xia
+  - Tsinghua University, Chinese Academy of Sciences
+  - arXiv 2024
+
+- **ASSET: Robust Backdoor Data Detection Across a Multiplicity of Deep Learning Paradigms** [[pdf]](https://arxiv.org/abs/2302.11408) [[code]](https://github.com/ruoxi-jia-group/ASSET)
+  - Minzhou Pan, Yi Zeng, Lingjuan Lyu, Xue Lin, Ruoxi Jia
+  - Virginia Tech, Sony AI, Northeastern University
+  - arXiv 2024
+
+- **Defending Against Patch-based Backdoor Attacks on Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2304.01482)
+  - Ajinkya Tejankar, Maziar Sanjabi, Qifan Wang, Sinong Wang, Hamed Firooz, Hamed Pirsiavash, Liang Tan
+  - University of Maryland, Facebook AI Research, Amazon Web Services
+  - arXiv 2024
+
+- **Defending Pre-trained Language Models as Few-shot Learners against Backdoor Attacks** [[pdf]](https://arxiv.org/abs/2309.13256)
+  - Yueqi Xie, Jingwei Yi, Jiawei Shao, Justin Curl, Lingjuan Lyu, Qifeng Chen, Xing Xie, Fangzhao Wu
+  - Microsoft Research, Hong Kong University of Science and Technology
+  - arXiv 2024
+
+- **Detecting Backdoors in Pre-trained Encoders** [[pdf]](https://arxiv.org/abs/2303.15180)
+  - Jiawei Sun, Kaidi Xu, Chia-Yi Hsu, Qi Alfred Chen
+  - University of California, Irvine, Drexel University, University of Central Florida
+  - arXiv 2024
+
+- **An Embarrassingly Simple Defense Against Backdoor Attacks On SSL** [[pdf]](https://arxiv.org/abs/2403.15918)
+  - Aryan Satpathy, Nilaksh Chaturvedi, Dhruva Rajwade
+  - Indian Institute of Technology, Kharagpur
+  - arXiv 2024
+
+- **Mutual Information Guided Backdoor Mitigation for Pre-trained Encoders** [[pdf]](https://ar5iv.org/abs/2406.03508v2)
+  - Tingxu Han, Weisong Sun, Ziqi Ding, Chunrong Fang, Hanwei Qian, Jiaxun Li, Zhenyu Chen, Xiangyu Zhang
+  - Nanjing University, Nanyang Technological University, University of New South Wales, Soochow University, Purdue University
+  - arXiv 2024
+
+- **Mitigating Backdoor Attacks in Pre-trained Encoders via Self-supervised Knowledge Distillation** [[pdf]](https://arxiv.org/abs/2303.15180)
+  - Yang Zhang, Tianyu Zhang, Kun He
+  - Huazhong University of Science and Technology
+  - arXiv 2023
+
+- **Robust Contrastive Language-Image Pre-training against Data Poisoning and Backdoor Attacks** [[pdf]](https://arxiv.org/abs/2310.05862)
+  - Xiaoyu Duan, Junyan Zou, Yiran Wang, Yixin Yuan, Hanlin Sun
+  - University of California, Berkeley, Shanghai Jiao Tong University
+  - arXiv 2024
 ## Privacy Attacks
 
 ## The Other Security Issues
