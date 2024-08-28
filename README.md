@@ -190,6 +190,10 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
   - Australian National University, Data61-CSIRO, Inception Institute of Artificial Intelligence, Linkoping University
   - Proceedings of the Computer Vision and Pattern Recognition (CVPR 2020)
 ## Backdoor Attacks
+|                 | 2023 | 2024 | total |
+| :-------------: | :--: | :--: | :---: |
+| article numbers |  4   |  17  |  24   |
+
 - **BADFSS: Backdoor Attacks on Federated Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2405.13080)
   - Zhihao Cheng, Yunchang Zhang, Xuxian Jiang
   - Huazhong University of Science and Technology, Tsinghua University, Zhejiang University
@@ -311,6 +315,9 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
   - Proceedings of the International Conference on Learning Representations (2021)
 
 ## Backdoor Defense
+|                 | 2023 | 2024 | total |
+| :-------------: | :--: | :--: | :---: |
+| article numbers |  7   |  12  |  21   |
 - **An Embarrassingly Simple Defense Against Backdoor Attacks On SSL** [[pdf]](https://arxiv.org/abs/2403.15918)
    - Aryan Satpathy, Nilaksh Chaturvedi, Dhruva Rajwade
    - Indian Institute of Technology, Kharagpur
