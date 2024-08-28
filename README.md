@@ -297,11 +297,6 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
   - Xidian University, Hong Kong University of Science and Technology, Huawei Technologies
   - arXiv 2022
 
-- **Anti-Backdoor Learning: Training Clean Models on Poisoned Data** [[pdf]](https://arxiv.org/abs/2110.11571)
-  - Jinyuan Jia, Yupei Liu, Neil Zhenqiang Gong
-  - Duke University
-  - Proceedings of the International Conference on Learning Representations (ICLR 2021)
-
 - **Backdoor Attacks on Pre-trained Models by Layerwise Weight Poisoning** [[pdf]](https://arxiv.org/abs/2108.13888)
   - Kang Liu, Brendan Dolan-Gavitt, Siddharth Garg
   - New York University, Tandon School of Engineering
