@@ -441,11 +441,11 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
 - **PtbStolen: Pre-trained Encoder Stealing Through Perturbed Samples** [[pdf]](https://doi.org/10.1007/978-981-99-9614-8_1)
   - Chuan Zhang, Haotian Liang, Zhuopeng Li, Tong Wu, Licheng Wang, Liehuang Zhu
   - Beijing Institute of Technology, Beijing 100081, China, University of Science and Technology Beijing, Beijing 100081, China
-  - Communications in Computer and Information Science (EISA 2023)
+  - Proceedings of the Communications in Computer and Information Science (EISA 2023)
 - **PTW:Pivotal Tuning Watermarking for Pre-Trained Image Generators** [[pdf]](https://www.usenix.org/system/files/usenixsecurity23-lukas.pdf)
   - Nils Lukas,  Florian Kerschbaum
   - University of Waterloo
-  - USENIX Security Symposium (USENIX 2023)
+  - Proceedings of the USENIX Security Symposium (USENIX 2023)
 - **StolenEncoder: Stealing Pre-trained Encoders in Self-supervised Learning** [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3548606.3560586)
   - Yupei Liu, Jinyuan Jia, Hongbin Liu,  Neil Zhenqiang Gong
   - Duke University
@@ -453,7 +453,7 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
 - **CloudLeak: Large-Scale Deep Learning Models Stealing Through Adversarial Examples** [[pdf]](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24178-paper.pdf)
   - Honggang Yu, Kaichen Yang, Teng Zhang, Yun-Yun Tsai, Tsung-Yi Ho, Yier Jin
   - University of Florida, University of Central Florida, National Tsing Hua University
-  - ISOC Network and Distributed System Security Symposium (NDSS 2020)
+  - Proceedings of the ISOC Network and Distributed System Security Symposium (NDSS 2020)
 
 ## Watermark
 
@@ -495,11 +495,11 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
 - **Watermarking Pre-trained Encoders in Contrastive Learning** [[pdf]](https://arxiv.org/pdf/2201.08217)
   - Yutong Wu, Han Qiu, Tianwei Zhang, Jiwei Li, Meikang Qiu
   - Tsinghua University, Nanyang Technological University, Shannon.AI, Zhejiang University, Texas A&M University
-  - International Conference on Data Intelligence and Security (ICDIS 2022)
+  - Proceedings of the International Conference on Data Intelligence and Security (ICDIS 2022)
 - **SSL-WM: A Black-Box Watermarking Approach for Encoders Pre-trained by Self-Supervised Learning** [[pdf]](https://arxiv.org/pdf/2209.03563)
   - Hewang Nie, Songfeng Lu
   - Queen’s University at Kingston
-  - ISOC Network and Distributed System Security Symposium (NDSS 2022)
+  - Proceedings of the ISOC Network and Distributed System Security Symposium (NDSS 2022)
 
 
 ## Membership Infenrence Attack
@@ -537,6 +537,6 @@ Here, we've summarized existing  attacks methods in our survey paper👍.
 - **Membership Inference Attacks Against NLP Classification Models** [[pdf]](https://openreview.net/pdf?id=74lwg5oxheC)
   - Xiuling Wang, Wendy Hui Wang
   - University of Massachusetts, Amherst Microsoft Research
-  - Annual Conference on Neural Information Processing Systems (NeurIPS 2021)
+  - Proceedings of the Neural Information Processing Systems (NeurIPS 2021)
 
 ## The Other Security Issues
