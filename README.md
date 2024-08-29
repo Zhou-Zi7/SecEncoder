@@ -8,7 +8,7 @@ Despite their remarkable capabilities, the increased complexity and deployment o
 Here, we've summarized existing attack and defense methods for pre-trained encoders in our survey paper👍.
 |                 | 2023 | 2024 | total |
 | :-------------: | :--: | :--: | :---: |
-| article numbers |  26  |  61  |  105  |
+| article numbers |  26  |  60  |  104  |
 
 > If you find some important work missed, it would be super helpful to let me know (zhouziqi@hust.edu.cn). Thanks!
 
@@ -36,7 +36,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 
 |                 | 2023 | 2024 | total |
 | :-------------: | :--: | :--: | :---: |
-| article numbers |  8   |  10  |  21   |
+| article numbers |  8   |  9   |  20   |
 
 - **A Multi-task Adversarial Attack Against Face Authentication** [[pdf]](https://arxiv.org/abs/2408.08205) [[code]](https://github.com/azrealwang/mtadv)
   - Hanrui Wang, Shuo Wang, Cunjian Chen, Massimo Tistarelli, Zhe Jin
@@ -46,10 +46,6 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
   - Haonan Zheng, Xinyang Deng, Wen Jiang, Wenrui Li
   - Northwestern Polytechnical University School of Electronics and Information, Harbin Institute of Technology Department of Computer Science and Technology
   - Proceedings of the ACM International Conference on Multimedia (ACM MM 2024)
-- **Adversarial Attacks on Both Face Recognition and Face Anti-spoofing Models** [[pdf]](https://arxiv.org/abs/2405.16940)
-  - Fengfan Zhou, Qianyu Zhou, Xiangtai Li, Xuequan Lu, Lizhuang Ma, Hefei Ling
-  - Huazhong University of Science and Technology, Shanghai Jiao Tong University, ByteDance, La Trobe University
-  - arXiv 2024
 - **Content-based Unrestricted Adversarial Attack** [[pdf]](https://arxiv.org/abs/2305.10665)
   - Zhaoyu Chen, Bo Li, Shuang Wu, Kaixun Jiang, Shouhong Ding, Wenqiang Zhang
   - Fudan University, Youtu Lab
