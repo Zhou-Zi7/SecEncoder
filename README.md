@@ -194,7 +194,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **BADFSS: Backdoor Attacks on Federated Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2405.13080)
   - Zhihao Cheng, Yunchang Zhang, Xuxian Jiang
   - Huazhong University of Science and Technology, Tsinghua University, Zhejiang University
-  - Proceedings of the International Conference on Machine Learning (2024)
+  - Proceedings of the International Conference on Machine Learning (ICML 2024)
 
 - **Invisible Backdoor Attacks on Key Regions Based on Target Neurons in Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2405.11551)
   - Ning Zhang, Zhiwei Liu, Jing Liu, Zhen Liu
@@ -219,7 +219,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **Privacy Backdoors: Enhancing Membership Inference** [[pdf]](https://arxiv.org/abs/2404.01231)
   - Yiming Chen, Ruoxi Jia, Xiaoyu Cao, Jiayu Lin
   - Department of Computer Science, Virginia Tech; Department of Electrical and Computer Engineering, Virginia Tech
-  - Proceedings of the International Conference on Learning Representations (2024)
+  - Proceedings of the International Conference on Learning Representations (ICLR 2024)
 
 - **TransTroj: Transferable Backdoor Attacks to Pre-trained Models via Embedding Indistinguishability** [[pdf]](https://arxiv.org/abs/2401.15883)
   - Zhenyu Zhang, Hong Wang, Chuan Guo, Haiyu Zhao
@@ -284,7 +284,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **Backdoor Attacks for In-Context Learning with Language Models** [[pdf]](https://arxiv.org/abs/2307.14692)
   - Nikhil Kandpal, Matthew Jagielski, Florian Tramèr, Nicholas Carlini
   - UNC Chapel Hill, ETH Zurich
-  - Proceedings of the International Conference on Machine Learning (2023)
+  - Proceedings of the International Conference on Machine Learning (ICML 2023)
 
 - **Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger** [[pdf]](https://arxiv.org/abs/2302.14677)
   - Yi Yu, Yufei Wang, Wenhan Yang, Shijian Lu, Yap-Peng Tan, Alex C. Kot
@@ -294,7 +294,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **An Embarrassingly Simple Backdoor Attack on Self-supervised Learning** [[pdf]](https://arxiv.org/abs/2210.07346)
   - Changjiang Li, Ren Pang, Zhaohan Xi, Tianyu Du, Shouling Ji, Yuan Yao, Ting Wang
   - Pennsylvania State University, Zhejiang University, Nanjing University
-  - Proceedings of the International Conference on Computer Vision (2023)
+  - Proceedings of the International Conference on Computer Vision (ICCV 2023)
 
 - **Backdoor Attacks in the Supply Chain of Masked Image Modeling** [[pdf]](https://arxiv.org/abs/2210.01632)
   - Weidi Zhang, Ziqiang Wang, Fang Song, Xu Chen, Aojun Zhou
@@ -309,12 +309,12 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **Backdoor Attacks on Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2105.10123)
   - Asil Kaan Bozkurt, Sahar Abdelnabi, M. Saad Al-Azzawi, Mario Fritz
   - Max Planck Institute for Informatics
-  - Proceedings of the International Conference on Learning Representations (2021)
+  - Proceedings of the International Conference on Learning Representations (ICLR 2021)
 
 ## Backdoor Defense
 |                 | 2023 | 2024 | total |
 | :-------------: | :--: | :--: | :---: |
-| article numbers |  7   |  12  |  21   |
+| article numbers |  6   |  12  |  20   |
 - **An Embarrassingly Simple Defense Against Backdoor Attacks On SSL** [[pdf]](https://arxiv.org/abs/2403.15918)
    - Aryan Satpathy, Nilaksh Chaturvedi, Dhruva Rajwade
    - Indian Institute of Technology, Kharagpur
@@ -373,7 +373,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **SSL-Cleanse: Trojan Detection and Mitigation in Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2303.09079) [[code]](https://github.com/UCF-ML-Research/SSL-Cleanse)
     - Mengxin Zheng, Jiaqi Xue, Zihao Wang, Xun Chen, Qian Lou, Lei Jiang, Xiaofeng Wang
     - University of Central Florida, Indiana University Bloomington, Samsung Research America
-    - Proceedings of the European Conference on Computer Vision (2024)
+    - Proceedings of the European Conference on Computer Vision (ECCV 2024)
 
 - **Mitigating Backdoor Attacks in Pre-trained Encoders via Self-supervised Knowledge Distillation** [[pdf]](https://arxiv.org/abs/2303.15180)
     - Yang Zhang, Tianyu Zhang, Kun He
@@ -383,7 +383,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **CleanCLIP: Mitigating Data Poisoning Attacks in Multimodal Contrastive Learning** [[pdf]](https://arxiv.org/abs/2303.03323) [[code]](https://github.com/nishadsinghi/CleanCLIP)
     - Hritik Bansal, Nishad Singhi, Yu Yang, Fan Yin, Aditya Grover, Kai-Wei Chang
     - University of California, Los Angeles UCLA, University of Tübingen
-    - Proceedings of the International Conference on Computer Vision (2023)
+    - Proceedings of the International Conference on Computer Vision (ICCV 2023)
 
 - **Removing Backdoors in Pre-trained Models by Regularized Continual Pre-training** [[pdf]](https://aclanthology.org/2023.tacl-1.128)
     - Biru Zhu, Ganqu Cui, Yangyi Chen, Yujia Qin, Lifan Yuan, Chong Fu, Yangdong Deng, Zhiyuan Liu, Maosong Sun, Ming Gu
@@ -393,32 +393,22 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **The "Beatrix" Resurrections: Robust Backdoor Detection via Gram Matrices** [[pdf]](https://www.ndss-symposium.org/ndss-paper/he-htlc-revisiting-incentives-in-htlc/) [[code]](https://github.com/wanlunsec/Beatrix)
     - Wanlun Ma, Derui Wang, Ruoxi Sun, Minhui Xue, Sheng Wen, Yang Xiang
     - Swinburne University of Technology, CSIRO's Data61
-    - Proceedings of the Network and Distributed System Security Symposium (2023)
-
-- **DLP: towards active defense against backdoor attacks with decoupled learning process** [[pdf]](https://cybersecurity.springeropen.com/articles/10.1186/s42400-023-00141-4)
-    - Zonghao Ying, Bin Wu
-    - Beijing Institute of Technology, Shanghai Jiao Tong University
-    - Cybersecurity (2023)
+    - Proceedings of the Network and Distributed System Security Symposium (NDSS 2023)
  
 - **SSL-ABD: An Adversarial Defense Method Against Backdoor Attacks in Self-supervised Learning** [[pdf]](https://doi.org/10.1007/978-981-99-9785-5_32)
     - Hui Yang, Ruilin Yang, Heqiu Cai, Xiao Zhang, Qingqi Pei, Shaowei Wang, Hongyang Yan
     - Guangzhou University, China
-    - Proceedings of the International Conference on Artificial Intelligence and Security (2023)
+    - Proceedings of the International Conference on Artificial Intelligence and Security (ICAIS 2023)
 
 - **Towards Understanding How Self-training Tolerates Data Backdoor Poisoning** [[pdf]](https://arxiv.org/abs/2301.08751)
     - Soumyadeep Pal, Ren Wang, Yuguang Yao, Sijia Liu
     - University of Alberta, Michigan State University, Illinois Institute of Technology
-    - Proceedings of the AAAI Conference on Artificial Intelligence (2023)
-
-- **Backdoor Defense via Decoupling the Training Process** [[pdf]](https://openreview.net/forum?id=JcQZJr0lFDG) [[code]](https://github.com/SCLBD/DBD)
-    - Kunzhe Huang, Yiming Li, Baoyuan Wu, Zhan Qin, Kui Ren
-    - Zhejiang University, Chinese Academy of Sciences, The Hong Kong Polytechnic University
-    - Proceedings of the International Conference on Learning Representations (2022)
+    - Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2023)
 
 - **SSLGuard: A Watermarking Scheme for Self-supervised Learning Pre-trained Encoders** [[pdf]](https://arxiv.org/abs/2201.11692) [[code]](https://github.com/tianshuocong/SSLGuard)
     - Tianshuo Cong, Xinlei He, Yang Zhang
     - Tsinghua University, CISPA Helmholtz Center for Information Security
-    - Proceedings of the ACM Conference on Computer and Communications Security (2022)
+    - Proceedings of the ACM Conference on Computer and Communications Security (CCS 2022)
  
 
 ## Privacy Attacks
