@@ -96,14 +96,14 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
   - Dongchen Han, Xiaojun Jia, Yang Bai, Jindong Gu, Yang Liu, Xiaochun Cao
   - Shenzhen Campus of Sun Yat-sen University, Nanyang Technological University, Tsinghua University, University of Oxford
   - arXiv 2023
-- **Black-Box Sparse Adversarial Attack via Multi-Objective Optimisation CVPR Proceedings** [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Williams_Black-Box_Sparse_Adversarial_Attack_via_Multi-Objective_Optimisation_CVPR_2023_paper.pdf)
+- **Black-Box Sparse Adversarial Attack via Multi-Objective Optimisation** [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Williams_Black-Box_Sparse_Adversarial_Attack_via_Multi-Objective_Optimisation_CVPR_2023_paper.pdf)
   - Phoenix Neale Williams, Ke Li
   - University of Exeter, Stocker Rd, Exeter, EX4 4PY
   - Proceedings of the Computer Vision and Pattern Recognition (CVPR 2023)
 - **HQA-Attack: Toward High Quality Black-Box Hard-Label Adversarial Attack on Text** [[pdf]](https://arxiv.org/abs/2402.01806) [[code]](https://github.com/HQA-Attack/HQAAttack-demo)
   - Han Liu, Zhi Xu, Xiaotong Zhang, Feng Zhang, Fenglong Ma, Hongyang Chen, Hong Yu, Xianchao Zhang
   - Dalian University of Technology, Peking University, The Pennsylvania State University, Zhejiang Lab
-  - Proceedings of the Neural Information Processing Systems (NeurIPS 2023)
+  - Proceedings of the Neural Information Processing Systems (NeurIPS 2024)
 - **Towards Adversarial Attack on Vision-Language Pre-training Models** [[pdf]](https://arxiv.org/abs/2206.09391) [[code]](https://github.com/adversarial-for-goodness/Co-Attack)
   - Jiaming Zhang, Qi Yi, Jitao Sang
   - Beijing Jiaotong University, Peng Cheng Lab
@@ -164,11 +164,11 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **Adversarial Prompt Tuning for Vision-Language Models** [[pdf]](https://arxiv.org/abs/2407.14971) [[code]](https://github.com/jiamingzhang94/Adversarial-Prompt-Tuning)
   - Jiaming Zhang, Xingjun Ma, Xin Wang, Lingyu Qiu, Jiaqi Wang, Yu-Gang Jiang, Jitao Sang
   - Beijing Jiaotong Univisity, Fudan Univisity, Nanjing University of Aeronautics and Astronautics
-  - arXiv 2024
+  - arXiv 2023
 - **Continual Adversarial Defense** [[pdf]](https://arxiv.org/abs/2312.09481)
   - Qian Wang, Yaoyao Liu, Hefei Ling, Yingwei Li, Qihao Liu, Ping Li, Jiazhong Chen, Alan Yuille, Ning Yu
   - Huazhong University of Science and Technology, Johns Hopkins University,Salesforce Research
-  - arXiv 2024
+  - arXiv 2023
 - **The Best Defense is a Good Offense: Adversarial Augmentation against Adversarial Attacks** [[pdf]](https://arxiv.org/abs/2305.14188) [[code]](https://github.com/NVlabs/A5)
   - Iuri Frosio, Jan Kautz
   - NVIDIA
