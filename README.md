@@ -161,7 +161,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
   - Md Zarif Hossain, Ahmed Imteaj
   - Southern Illinois University, SPEED Lab
   - arXiv 2024
-- **Adversarial Prompt Tuning for Vision-Language Models** [[pdf]](https://arxiv.org/abs/2407.14971) [[code]](https://github.com/jiamingzhang94/Adversarial-Prompt-Tuning)
+- **Adversarial Prompt Tuning for Vision-Language Models** [[pdf]](https://arxiv.org/abs/2311.11261) [[code]](https://github.com/jiamingzhang94/Adversarial-Prompt-Tuning)
   - Jiaming Zhang, Xingjun Ma, Xin Wang, Lingyu Qiu, Jiaqi Wang, Yu-Gang Jiang, Jitao Sang
   - Beijing Jiaotong Univisity, Fudan Univisity, Nanjing University of Aeronautics and Astronautics
   - arXiv 2023
