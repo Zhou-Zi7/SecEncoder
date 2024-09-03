@@ -145,7 +145,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
   - Lihua Jing, Rui Wang, Wenqi Ren, Xin Dong, Cong Zou
   - Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shenzhen Campus of Sun Yat-sen University
   - Proceedings of the Computer Vision and Pattern Recognition (CVPR 2024)
-- **Pre-trained Model Guided Fine-Tuning for Zero-Shot Adversarial Robustness** [[pdf]](https://arxiv.org/abs/2401.04350) [[code]](https://github.com/serendipity1122/Pre-trained-Model-Guided-FineTuning-for-Zero-Shot-Adversarial-Robustness)
+- **Pre-trained Model Guided Fine-Tuning for Zero-Shot Adversarial Robustness** [[pdf]](https://arxiv.org/abs/2401.04350) [[code]](https://github.com/serendipity1122/Pre-trained-Model-Guided-Fine-Tuning-for-Zero-Shot-Adversarial-Robustness)
   - Sibo Wang, Jie Zhang, Zheng Yuan, Shiguang Shan
   - Chinese Academy of Sciences, University of Chinese Academy of Sciences
   - Proceedings of the Computer Vision and Pattern Recognition (CVPR 2024)
