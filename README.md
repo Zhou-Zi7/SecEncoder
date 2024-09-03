@@ -366,7 +366,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
    - Stony Brook University, Pennsylvania State University, Zhejiang University
    - Proceedings of USENIX Security Symposium (USENIX Sec 2024)
 
-- **Robust Contrastive Language-Image Pre-training against Data Poisoning and Backdoor Attacks** [[pdf]](https://arxiv.org/abs/2310.05862)
+- **Robust Contrastive Language-Image Pre-training against Data Poisoning and Backdoor Attacks** [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2023/file/2232e8fee69b150005ac420bfa83d705-Paper-Conference.pdf)
     - Wenhan Yang, Jingdong Gao, Baharan Mirzasoleiman
     - Computer Science Department, UCLA
     - Proceedings of Advances in Neural Information Processing Systems (NeurIPS 2023)
@@ -377,7 +377,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
     - University of Central Florida, Indiana University Bloomington, Samsung Research America
     - arXiv 2023
 
-- **Mitigating Backdoor Attacks in Pre-trained Encoders via Self-supervised Knowledge Distillation** [[pdf]](https://arxiv.org/abs/2303.15180)
+- **Mitigating Backdoor Attacks in Pre-trained Encoders via Self-supervised Knowledge Distillation** [[pdf]](https://ieeexplore.ieee.org/abstract/document/10579882)
     - Rongfang Bie, Jinxiu Jiang, Yu Guo, Hongcheng Xie, Xiaohua Jia, Yinbin Miao
     - School of Artificial Intelligence, Beijing Normal University, City University of Hong Kong, School of Cyber Engineering, Xidian University
     - IEEE Transactions on Services Computing (2024)
@@ -392,7 +392,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
     - School of Software, Tsinghua University, Department of Computer Science and Technology, Tsinghua University, University of Illinois Urbana-Champaign, Zhejiang University
     - Transactions of the Association for Computational Linguistics (2023)
 
-- **The "Beatrix" Resurrections: Robust Backdoor Detection via Gram Matrices** [[pdf]](https://www.ndss-symposium.org/ndss-paper/he-htlc-revisiting-incentives-in-htlc/) [[code]](https://github.com/wanlunsec/Beatrix)
+- **The "Beatrix" Resurrections: Robust Backdoor Detection via Gram Matrices** [[pdf]](https://arxiv.org/pdf/2209.11715) [[code]](https://github.com/wanlunsec/Beatrix)
     - Wanlun Ma, Sheng Wen, Yang Xiang, Derui Wang, Ruoxi Sun, Minhui Xue
     - Swinburne University of Technology, CSIRO’s Data61
     - Proceedings of the Network and Distributed System Security Symposium (NDSS 2023)
