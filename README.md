@@ -181,8 +181,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
   - Mazda Moayeri, Soheil Feizi
   - Department of Computer Science University of Maryland
   - Proceedings of the International Conference on Computer Vision (ICCV 2021)
-- **A Self-supervised Approach for Adversarial Robustness** [[pdf]](https://arxiv.org/abs/2006.04924) [[code]](https://github.com/
-  Muzammal-Naseer/NRP)
+- **A Self-supervised Approach for Adversarial Robustness** [[pdf]](https://arxiv.org/abs/2006.04924) [[code]](https://github.com/Muzammal-Naseer/NRP)
   - Muzammal Naseer, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, Fatih Porikli
   - Australian National University, Data61-CSIRO, Inception Institute of Artificial Intelligence, Linkoping University
   - Proceedings of the Computer Vision and Pattern Recognition (CVPR 2020)
