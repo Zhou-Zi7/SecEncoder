@@ -186,6 +186,9 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
   - Muzammal Naseer, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, Fatih Porikli
   - Australian National University, Data61-CSIRO, Inception Institute of Artificial Intelligence, Linkoping University
   - Proceedings of the Computer Vision and Pattern Recognition (CVPR 2020)
+
+
+ 
 ## Backdoor Attacks
 |                 | 2023 | 2024 | total |
 | :-------------: | :--: | :--: | :---: |
