@@ -72,7 +72,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **BLACK-BOX TARGETED ADVERSARIAL ATTACK ON SEGMENT ANYTHING (SAM)** [[pdf]](https://arxiv.org/abs/2310.10010)
   - Sheng Zheng, Chaoning Zhang, Xinhong Hao
   - Beijing Institute of Technology, Kyung Hee University
-  - Proceedings of the International Conference on Learning Representations (ICLR 2024)
+  - arXiv 2023
 - **Iterative Adversarial Attack on Image-guided Story Ending Generation** [[pdf]](https://arxiv.org/pdf/2305.13208v1) [[code]](https://github.com/frgfm/torch-cam)
   - Youze Wang, Wenbo Hu, Richang Hong
   - IEEE Transactions on Multimedia (2023)
