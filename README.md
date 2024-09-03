@@ -141,7 +141,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
   - Qiao Li, Jing Chen, Kun He, Zijun Zhang, Ruiying Du, Jisi She, Xinxin Wang
   - Key Laboratory of Aerospace Information Security and Trusted Computing, Ministry of Education, School of Cyber Science and Engineering, Rizhao Institute of Information Technology, Wuhan University, Collaborative Innovation Center of Geospatial Technology
   - Computers & Security (2024)
-- **PAD: Patch-Agnostic Defense against Adversarial Patch Attacks** [[pdf]](https://arxiv.org/abs/2312.09481) [[code]](https://github.com/Lihua-Jing/PAD)
+- **PAD: Patch-Agnostic Defense against Adversarial Patch Attacks** [[pdf]](https://arxiv.org/abs/2404.16452) [[code]](https://github.com/Lihua-Jing/PAD)
   - Lihua Jing, Rui Wang, Wenqi Ren, Xin Dong, Cong Zou
   - Chinese Academy of Sciences, University of Chinese Academy of Sciences, Shenzhen Campus of Sun Yat-sen University
   - Proceedings of the Computer Vision and Pattern Recognition (CVPR 2024)
