@@ -201,7 +201,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **Invisible Backdoor Attacks on Key Regions Based on Target Neurons in Self-Supervised Learning** [[pdf]](https://link.springer.com/content/pdf/10.1007/978-981-97-5498-4.pdf)
   - Xiangyun Qian, Yusheng He, Rui Zhang, Zi Kang, Yilin Sheng & Hui Xia
   - Ocean University of China
-  - Proceedings of International Conference on Knowledge Science, Engineering and Management (KSEM 2024)
+  - Proceedings of the International Conference on Knowledge Science, Engineering and Management (KSEM 2024)
 
 - **SSLJBA: Joint Backdoor Attack on Both Robustness and Fairness of Self-Supervised Learning** [[pdf]](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.23899920.v1/v1)
   - Fengrui Hao, Tianlong Gu, Jionghui Jiang, Ming Liu
@@ -211,12 +211,12 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **Distribution Preserving Backdoor Attack in Self-supervised Learning** [[pdf]](https://www.cs.purdue.edu/homes/taog/docs/SP24.pdf)
   - Guanhong Tao, Zhenting Wang, Shiwei Feng, Guangyu Shen, Shiqing Ma, Xiangyu Zhang
   - Purdue University, Rutgers University, University of Massachusetts Amherst
-  - Proceedings of IEEE Symposium on Security and Privacy (SP 2024)
+  - Proceedings of the IEEE Symposium on Security and Privacy (SP 2024)
 
 - **Backdoor Contrastive Learning via Bi-level Trigger Optimization** [[pdf]](https://openreview.net/pdf?id=oxjeePpgSP)
   - Weiyu Sun, Xinyu Zhang, Hao LU, Ying-Cong Chen, Ting Wang, Jinghui Chen, Lu Lin
   - Nanjing University, The Hong Kong University of Science and Technology, Stony Brook University, The Pennsylvania State University
-  - International Conference on Learning Representations (ICLR 2024)
+  - Proceedings of the International Conference on Learning Representations (ICLR 2024)
 
 - **Privacy Backdoors: Enhancing Membership Inference** [[pdf]](https://arxiv.org/abs/2404.01231)
   - Y Wen, L Marchyok, S Hong, J Geiping, T Goldstein, N Carlini
@@ -231,12 +231,12 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **PoisonedEncoder: Poisoning the Unlabeled Pre-training Data in Contrastive Learning** [[pdf]](https://www.usenix.org/system/files/sec22-liu-hongbin.pdf)
   - H Liu, J Jia, NZ Gong
   - Duke University
-  - USENIX Security Symposium (USENIX Sec 2024)
+  - Proceedings of the USENIX Security Symposium (USENIX Sec 2024)
 
 - **Better Safe than Sorry: Pre-training CLIP against Targeted Data Poisoning and Backdoor Attacks** [[pdf]](https://arxiv.org/abs/2310.05862)
   - W Yang, J Gao, B Mirzasoleiman
   - University of California, Los Angeles
-  - Proceedings of International Conference on Machine Learning (ICML 2024)
+  - Proceedings of the International Conference on Machine Learning (ICML 2024)
 
 - **GhostEncoder: Stealthy Backdoor Attacks with Dynamic Triggers to Pre-trained Encoders** [[pdf]](https://arxiv.org/abs/2310.00626)
   - Q Wang, C Yin, L Fang, Z Liu, R Wang, C Lin
@@ -246,7 +246,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **Data Poisoning based Backdoor Attacks to Contrastive Learning** [[pdf]](https://arxiv.org/abs/2211.08229)
   - J Zhang, H Liu, J Jia, NZ Gong
   - University of California, Duke University
-  - Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)
+  - Proceedings of the Computer Vision and Pattern Recognition (CVPR 2024)
  
 - **Towards Imperceptible Backdoor Attack in Self-supervised Learning** [[pdf]](https://arxiv.org/abs/2405.14672)
   - H Zhang, Z Wang, T Han, M Jin, C Zhan, M Du, H Wang, S Ma
@@ -276,7 +276,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger** [[pdf]](https://arxiv.org/abs/2302.14677)
   - Y Yu, Y Wang, W Yang, S Lu, YP Tan, AC Kot
   - Nanyang Technological University, Peng Cheng Lab
-  - Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023)
+  - Proceedings of the Computer Vision and Pattern Recognition (CVPR 2023)
 
 - **An Embarrassingly Simple Backdoor Attack on Self-supervised Learning** [[pdf]](https://arxiv.org/abs/2210.07346)
   - C Li, R Pang, Z Xi, T Du, S Ji, Y Yao, T Wang
@@ -296,17 +296,17 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2108.00352)
   - J Jia, Y Liu, NZ Gong
   - Duke University
-  - Proceedings of IEEE Symposium on Security and Privacy (SP 2022)
+  - Proceedings of the IEEE Symposium on Security and Privacy (SP 2022)
 
 - **Backdoor Attacks on Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2105.10123)
   - Aniruddha Saha, Ajinkya Tejankar, Soroush Abbasi Koohpayegani, Hamed Pirsiavash
   - University of Maryland, Baltimore County, University of California, Davis
-  - Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)
+  - Proceedings of the Computer Vision and Pattern Recognition (CVPR 2022)
     
 - **Backdoor Attacks on Pre-trained Models by Layerwise Weight Poisoning** [[pdf]](https://arxiv.org/abs/2108.13888)
   - L Li, D Song, X Li, J Zeng, R Ma, X Qiu
   - School of Computer Science, Fudan University, Shanghai Key Laboratory of Intelligent Information Processing, Fudan University, Pazhou Lab
-  - Proceedings of Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)
+  - Proceedings of the Conference on Empirical Methods in Natural Language Processing (EMNLP 2021)
 
 - **WITCHES' BREW: Industrial Scale Data Poisoning via Gradient Matching** [[pdf]](https://arxiv.org/abs/2009.02276)
   - J Geiping, L Fowl, WR Huang, W Czaja, G Taylor, M Moeller, T Goldstein
@@ -344,12 +344,12 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **On the Difficulty of Defending Contrastive Learning against Backdoor Attacks** [[pdf]](https://arxiv.org/abs/2312.09057)
    - Changjiang Li, Ren Pang, Bochuan Cao, Zhaohan Xi, Jinghui Chen, Shouling Ji, Ting Wang
    - Stony Brook University, Pennsylvania State University, Zhejiang University
-   - Proceedings of USENIX Security Symposium (USENIX Sec 2024)
+   - Proceedings of the USENIX Security Symposium (USENIX Sec 2024)
      
 - **Detecting Backdoors in Pre-trained Encoders** [[pdf]](https://arxiv.org/abs/2303.15180)
    - Shiwei Feng, Guanhong Tao, Siyuan Cheng, Guangyu Shen, Xiangzhe Xu, Yingqi Liu, Kaiyuan Zhang, Shiqing Ma, Xiangyu Zhang
    - Purdue University, Rutgers University
-   - Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)
+   - Proceedings of the Computer Vision and Pattern Recognition (CVPR 2024)
 
 - **Mitigating Backdoor Attacks in Pre-trained Encoders via Self-supervised Knowledge Distillation** [[pdf]](https://ieeexplore.ieee.org/abstract/document/10579882)
     - Rongfang Bie, Jinxiu Jiang, Yu Guo, Hongcheng Xie, Xiaohua Jia, Yinbin Miao
@@ -364,7 +364,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **Defending Pre-trained Language Models as Few-shot Learners against Backdoor Attacks** [[pdf]](https://arxiv.org/abs/2309.13256)
    - Zhaohan Xi, Changjiang Li, Ren Pang, Jinghui Chen, Fenglong Ma, Ting Wang, Tianyu Du, Shouling Ji
    - Pennsylvania State University, Zhejiang University, Stony Brook University
-   - Proceedings of Advances in Neural Information Processing Systems (NeurIPS 2023)
+   - Proceedings of the Advances in Neural Information Processing Systems (NeurIPS 2023)
 
 - **Erasing Self-Supervised Learning Backdoor by Cluster Activation Masking** [[pdf]](https://arxiv.org/abs/2312.07955)
    - Shengsheng Qian, Yifei Wang, Dizhan Xue, Shengjie Zhang, Huaiwen Zhang, Changsheng Xu
@@ -374,7 +374,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **Robust Contrastive Language-Image Pre-training against Data Poisoning and Backdoor Attacks** [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2023/file/2232e8fee69b150005ac420bfa83d705-Paper-Conference.pdf)
     - Wenhan Yang, Jingdong Gao, Baharan Mirzasoleiman
     - Computer Science Department, UCLA
-    - Proceedings of Advances in Neural Information Processing Systems (NeurIPS 2023)
+    - Proceedings of the Advances in Neural Information Processing Systems (NeurIPS 2023)
 
 - **SSL-Cleanse: Trojan Detection and Mitigation in Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2303.09079) [[code]](https://github.com/UCF-ML-Research/SSL-Cleanse)
     - Mengxin Zheng, Jiaqi Xue, Zihao Wang, Xun Chen, Qian Lou, Lei Jiang, Xiaofeng Wang
@@ -422,7 +422,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **Can’t Steal? Cont-Steal! Contrastive Stealing Attacks Against Image Encoders** [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Sha_Cant_Steal_Cont-Steal_Contrastive_Stealing_Attacks_Against_Image_Encoders_CVPR_2023_paper.pdf) [[code]](https://github.com/zeyangsha/ContSteal)
   - Zeyang Sha, Xinlei He, Ning Yu, Michael Backes, Yang Zhang
   - CISPA Helmholtz Center for Information Security, Salesforce Research
-  - Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023)
+  - Proceedings of the Computer Vision and Pattern Recognition (CVPR 2023)
 - **IPES: Improved Pre-trained Encoder Stealing Attack in Contrastive Learning** [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10501814)
   - Chuan Zhang, Zhuopeng Li, Haotian Liang, Jinwen Liang, Ximeng Liu, Liehuang Zhu
   - School of Cyberspace Science and Technology, Beijing Institute of Technology, Beijing, China, Department of Computing, Hong Kong Polytechnic University, Hong Kong, China, College of Computer and Data Science, Fuzhou University, Fuzhou, China
