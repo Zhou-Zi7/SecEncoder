@@ -54,7 +54,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
   - Weijie Zheng, Xingjun Ma, Hanxun Huang, Jun Yin, Tiehua Zhang, Zuxuan Wu, Yu-Gang Jiang
   - arXiv 2024
 - **DifAttack: Query-Effcient Black-Box Adversarial Attack via Disentangled Feature Space** [[pdf]](https://arxiv.org/abs/2309.14585) [[code]](https://github.com/csjunjun/DifAttack)
-  - Jun Liu, Jiantao Zhou, Jiandian Zeng, Jinyu Tian
+  - Liu Jun, Zhou Jiantao, Zeng Jiandian, Tian Jinyu
   - State Key Laboratory of Internet of Things for Smart City, University of Macau, Beijing Normal University, Macau University of Science and Technology
   - Proceedings of the Association for the Advancement of Artificial Intelligence (AAAI 2024)
 - **Mutual-Modality Adversarial Attack with Semantic Perturbation** [[pdf]](https://arxiv.org/abs/2312.12768)
