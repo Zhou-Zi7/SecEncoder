@@ -319,102 +319,98 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 ## Backdoor Defense
 |                 | 2023 | 2024 | total |
 | :-------------: | :--: | :--: | :---: |
-| article numbers |  6   |  12  |  20   |
+| article numbers |  6   |  11  |  19   |
 
 - **An Embarrassingly Simple Defense Against Backdoor Attacks On SSL** [[pdf]](https://arxiv.org/abs/2403.15918)
-   - A Satpathy, D Rajwade
+   - Aryan Satpathy, Nilaksh, Dhruva Rajwade
    - Indian Institute of Technology, Kharagpur
    - arXiv 2024
 
 - **EmInspector: Combating Backdoor Attacks in Federated Self-Supervised Learning Through Embedding Inspection** [[pdf]](https://arxiv.org/abs/2405.13080) [[code]](https://github.com/ShuchiWu/EmInspector)
-   - Y Qian, S Wu, K Wei, M Ding, D Xiao, T Xiang, C Ma, S Guo
-   - University of Science and Technology of China, Tsinghua University, City University of Hong Kong
+   - Yuwen Qian, Shuchi Wu, Kang Wei, Ming Ding, Di Xiao, Tao Xiang, Chuan Ma, Song Guo
+   - Nanjing University of Science and Technology, The Hong Kong Polytechnic University, Data61 CSIRO, Chongqing University, Zhejiang Lab, Hong Kong University of Science and Technology
    - arXiv 2024
 
 - **Mutual Information Guided Backdoor Mitigation for Pre-trained Encoders** [[pdf]](https://ar5iv.org/abs/2406.03508v2)
-   - T Han, W Sun, Z Ding, C Fang, H Qian, J Li, Z Chen, X Zhang
-   - Nanjing University, Nanyang Technological University, University of New South Wales, Soochow University, Purdue University
+   - Tingxu Han, Chunrong Fang, Hanwei Qian, Zhenyu Chen, Weisong Sun, Ziqi Ding, Jiaxun Li, Xiangyu Zhang
+   - State Key Laboratory for Novel Software Technology, Nanjing University, Nanyang Technological University, University of New South Wales, Soochow University, Purdue University
    - arXiv 2024
 
 - **ASSET: Robust Backdoor Data Detection Across a Multiplicity of Deep Learning Paradigms** [[pdf]](https://arxiv.org/abs/2302.11408) [[code]](https://github.com/ruoxi-jia-group/ASSET)
    - Minzhou Pan, Yi Zeng, Lingjuan Lyu, Xue Lin, Ruoxi Jia
    - Virginia Tech, Sony AI, Northeastern University
-   - USENIX Security Symposium (USENIX Security
+   - USENIX Security Symposium (USENIX Sec 2023)
 
 - **Defending Against Patch-based Backdoor Attacks on Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2304.01482)
-   - Ajinkya Tejankar, Maziar Sanjabi, Qifan Wang, Sinong Wang, Hamed Firooz, Hamed Pirsiavash, Liang Tan
-   - University of Maryland, Facebook AI Research, Amazon Web Services
+   - Ajinkya Tejankar, Hamed Pirsiavash, Maziar Sanjabi, Qifan Wang, Sinong Wang, Hamed Firooz, Liang Tan
+   - University of California, Davis, Meta AI
    - arXiv 2024
 
 - **Defending Pre-trained Language Models as Few-shot Learners against Backdoor Attacks** [[pdf]](https://arxiv.org/abs/2309.13256)
-   - Zhaohan Xi, Tianyu Du, Changjiang Li, Ren Pang, Shouling Ji, Jinghui Chen, Fenglong Ma, Ting Wang
-   - Microsoft Research, Hong Kong University of Science and Technology
-   - arXiv 2024
+   - Zhaohan Xi, Changjiang Li, Ren Pang, Jinghui Chen, Fenglong Ma, Ting Wang, Tianyu Du, Shouling Ji
+   - Pennsylvania State University, Zhejiang University, Stony Brook University
+   - Proceedings of Advances in Neural Information Processing Systems (NeurIPS 2023)
 
 - **Detecting Backdoors in Pre-trained Encoders** [[pdf]](https://arxiv.org/abs/2303.15180)
    - Shiwei Feng, Guanhong Tao, Siyuan Cheng, Guangyu Shen, Xiangzhe Xu, Yingqi Liu, Kaiyuan Zhang, Shiqing Ma, Xiangyu Zhang
-   - University of California, Irvine, Drexel University, University of Central Florida
-   - arXiv 2024
+   - Purdue University, Rutgers University
+   - Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)
 
 - **Erasing Self-Supervised Learning Backdoor by Cluster Activation Masking** [[pdf]](https://arxiv.org/abs/2312.07955)
    - Shengsheng Qian, Yifei Wang, Dizhan Xue, Shengjie Zhang, Huaiwen Zhang, Changsheng Xu
-   - Tsinghua University, University of Electronic Science and Technology of China
-   - arXiv 2024
+   - MAIS, Institute of Automation, Chinese Academy of Sciences, University of Chinese Academy of Sciences, Zhengzhou University, College of Computer Science, Inner Mongolia University, Peng Cheng Laboratory
+   - arXiv 2023
 
 - **On the Difficulty of Defending Contrastive Learning against Backdoor Attacks** [[pdf]](https://arxiv.org/abs/2312.09057)
    - Changjiang Li, Ren Pang, Bochuan Cao, Zhaohan Xi, Jinghui Chen, Shouling Ji, Ting Wang
    - Stony Brook University, Pennsylvania State University, Zhejiang University
-   - arXiv 2024
-
-- **Self-supervised learning backdoor defense mixed with self-attention mechanism** [[pdf]](https://arxiv.org/abs/2408.11679)
-    - G Yuan, H Huang, X Li
-    - Tsinghua University, Chinese Academy of Sciences
-    - arXiv 2024
+   - Proceedings of USENIX Security Symposium (USENIX Sec 2024)
 
 - **Robust Contrastive Language-Image Pre-training against Data Poisoning and Backdoor Attacks** [[pdf]](https://arxiv.org/abs/2310.05862)
     - Wenhan Yang, Jingdong Gao, Baharan Mirzasoleiman
-    - University of California, Berkeley, Shanghai Jiao Tong University
-    - arXiv 2024
+    - Computer Science Department, UCLA
+    - Proceedings of Advances in Neural Information Processing Systems (NeurIPS 2023)
+
 
 - **SSL-Cleanse: Trojan Detection and Mitigation in Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2303.09079) [[code]](https://github.com/UCF-ML-Research/SSL-Cleanse)
     - Mengxin Zheng, Jiaqi Xue, Zihao Wang, Xun Chen, Qian Lou, Lei Jiang, Xiaofeng Wang
     - University of Central Florida, Indiana University Bloomington, Samsung Research America
-    - Proceedings of the European Conference on Computer Vision (ECCV 2024)
+    - arXiv 2023
 
 - **Mitigating Backdoor Attacks in Pre-trained Encoders via Self-supervised Knowledge Distillation** [[pdf]](https://arxiv.org/abs/2303.15180)
-    - Rongfang Bie, Jinxiu Jiang, Hongcheng Xie, Yu Guo, Yinbin Miao, Xiaohua Jia
-    - Huazhong University of Science and Technology
-    - arXiv 2023
+    - Rongfang Bie, Jinxiu Jiang, Yu Guo, Hongcheng Xie, Xiaohua Jia, Yinbin Miao
+    - School of Artificial Intelligence, Beijing Normal University, City University of Hong Kong, School of Cyber Engineering, Xidian University
+    - IEEE Transactions on Services Computing (2024)
 
 - **CleanCLIP: Mitigating Data Poisoning Attacks in Multimodal Contrastive Learning** [[pdf]](https://arxiv.org/abs/2303.03323) [[code]](https://github.com/nishadsinghi/CleanCLIP)
     - Hritik Bansal, Nishad Singhi, Yu Yang, Fan Yin, Aditya Grover, Kai-Wei Chang
-    - University of California, Los Angeles UCLA, University of Tübingen
+    - UCLA, University of Tübingen
     - Proceedings of the International Conference on Computer Vision (ICCV 2023)
 
 - **Removing Backdoors in Pre-trained Models by Regularized Continual Pre-training** [[pdf]](https://aclanthology.org/2023.tacl-1.91.pdf)
     - Biru Zhu, Ganqu Cui, Yangyi Chen, Yujia Qin, Lifan Yuan, Chong Fu, Yangdong Deng, Zhiyuan Liu, Maosong Sun, Ming Gu
-    - Tsinghua University, Beijing Institute of Technology, University of Illinois Urbana-Champaign
+    - School of Software, Tsinghua University, Department of Computer Science and Technology, Tsinghua University, University of Illinois Urbana-Champaign, Zhejiang University
     - Transactions of the Association for Computational Linguistics (2023)
 
 - **The "Beatrix" Resurrections: Robust Backdoor Detection via Gram Matrices** [[pdf]](https://www.ndss-symposium.org/ndss-paper/he-htlc-revisiting-incentives-in-htlc/) [[code]](https://github.com/wanlunsec/Beatrix)
-    - Wanlun Ma, Derui Wang, Ruoxi Sun, Minhui Xue, Sheng Wen, Yang Xiang
-    - Swinburne University of Technology, CSIRO's Data61
+    - Wanlun Ma, Sheng Wen, Yang Xiang, Derui Wang, Ruoxi Sun, Minhui Xue
+    - Swinburne University of Technology, CSIRO’s Data61
     - Proceedings of the Network and Distributed System Security Symposium (NDSS 2023)
- 
+
 - **SSL-ABD: An Adversarial Defense Method Against Backdoor Attacks in Self-supervised Learning** [[pdf]](https://doi.org/10.1007/978-981-99-9785-5_32)
     - Hui Yang, Ruilin Yang, Heqiu Cai, Xiao Zhang, Qingqi Pei, Shaowei Wang, Hongyang Yan
-    - Guangzhou University, China
-    - Proceedings of the International Conference on Artificial Intelligence and Security (ICAIS 2023)
+    - Institute of Artificial Intelligence and Blockchain, Guangzhou University, Beihang University, Xidian University
+    - Proceedings of the International Conference on Artificial Intelligence and Security (AIS&P 2023)
 
 - **Towards Understanding How Self-training Tolerates Data Backdoor Poisoning** [[pdf]](https://arxiv.org/abs/2301.08751)
     - Soumyadeep Pal, Ren Wang, Yuguang Yao, Sijia Liu
-    - University of Alberta, Michigan State University, Illinois Institute of Technology
+    - University of Alberta, Illinois Institute of Technology, Michigan State University
     - Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2023)
 
 - **SSLGuard: A Watermarking Scheme for Self-supervised Learning Pre-trained Encoders** [[pdf]](https://arxiv.org/abs/2201.11692) [[code]](https://github.com/tianshuocong/SSLGuard)
     - Tianshuo Cong, Xinlei He, Yang Zhang
-    - Tsinghua University, CISPA Helmholtz Center for Information Security
-    - Proceedings of the ACM Conference on Computer and Communications Security (CCS 2022)
+    - Institute for Advanced Study, BNRist, Tsinghua University, CISPA Helmholtz Center for Information Security
+    - Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS 2022)
  
 
 
