@@ -418,8 +418,8 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 
 |                 | 2023 | 2024 | total |
 | :-------------: | :--: | :--: | :---: |
-| article numbers |  4   |  0   |   6   |
-- **Can’t Steal? Cont-Steal! Contrastive Stealing Attacks Against Image Encoders** [[pdf]](https://arxiv.org/abs/2407.14971) [[code]](https://github.com/jiamingzhang94/Adversarial-Prompt-Tuning)
+| article numbers |  4   |  2   |   6   |
+- **Can’t Steal? Cont-Steal! Contrastive Stealing Attacks Against Image Encoders** [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Sha_Cant_Steal_Cont-Steal_Contrastive_Stealing_Attacks_Against_Image_Encoders_CVPR_2023_paper.pdf) [[code]](https://github.com/zeyangsha/ContSteal)
   - Zeyang Sha, Xinlei He, Ning Yu, Michael Backes, Yang Zhang
   - CISPA Helmholtz Center for Information Security, Salesforce Research
   - Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023)
@@ -431,10 +431,6 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
   - Chuan Zhang, Haotian Liang, Zhuopeng Li, Tong Wu, Licheng Wang, Liehuang Zhu
   - Beijing Institute of Technology, Beijing 100081, China, University of Science and Technology Beijing, Beijing 100081, China
   - Proceedings of the Communications in Computer and Information Science (EISA 2023)
-- **PTW:Pivotal Tuning Watermarking for Pre-Trained Image Generators** [[pdf]](https://www.usenix.org/system/files/usenixsecurity23-lukas.pdf)
-  - Nils Lukas,  Florian Kerschbaum
-  - University of Waterloo
-  - Proceedings of the USENIX Security Symposium (USENIX 2023)
 - **StolenEncoder: Stealing Pre-trained Encoders in Self-supervised Learning** [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3548606.3560586)
   - Yupei Liu, Jinyuan Jia, Hongbin Liu,  Neil Zhenqiang Gong
   - Duke University
@@ -461,21 +457,21 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
   - Yingqian Cui, Jie Ren, Yuping Lin, Han Xu, Pengfei He, Yue Xing, Lingjuan Lyu, Wenqi Fan, HuiLiu, Jiliang Tang
   - Institute of Information Engineering, Chinese Academy of Sciences, China, School of Cyber Security, University of Chinese Academy of Sciences, China, Department of Computer Science, Metropolitan College, Boston University, USA, Institute of Software, Chinese Academy of Sciences, China
   - arXiv 2024
-- **Robustness of Watermarking on Text-to-Image Diffusion Models** [[pdf]](https://arxiv.org/pdf/2401.15239)
+- **Robustness of Watermarking on Text-to-Image Diffusion Models** [[pdf]](https://arxiv.org/pdf/2408.02035)
   - Xiaodong Wu,  Xiangman Li, Jianbing Ni
   - Queen’s University at Kingston
   - arXiv 2024
-- **Securing IP in edge AI: neural network watermarking for multimodal Models** [[pdf]](https://arxiv.org/pdf/2401.15239)
+- **Securing IP in edge AI: neural network watermarking for multimodal Models** [[pdf]](https://link.springer.com/article/10.1007/s10489-024-05746-x)
   - Hewang Nie, Songfeng Lu
   - Queen’s University at Kingston
   - Applied Intelligence (2024)
 - **SSLGuard: A Watermarking Scheme for Self-supervised Learning  Pre-trained Encoders** [[pdf]](https://arxiv.org/pdf/2201.11692)
-  - Peizhuo Lv, Pan Li, Shenchen Zhu, Shengzhi Zhang, Kai Chen, Ruigang Liang, Chang Yue, Fan Xiang, Yuling Cai, Hualong Ma, Yingjun Zhang, Guozhu Meng
-  - Institute of Information Engineering, Chinese Academy of Sciences, China, School of Cyber Security, University of Chinese Academy of Sciences, China, Department of Computer Science, Metropolitan College, Boston University, USA, Institute of Software, Chinese Academy of Sciences, China
-  - arXiv 2024
+  - Tianshuo Cong, Xinlei He, Yang Zhang
+  - Institute for Advanced Study, BNRist, Tsinghua University, CISPA Helmholtz Center for Information Security
+  - Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security (SIGSAC 2022)
 - **AWEncoder: Adversarial Watermarking Pre-Trained Encoders in Contrastive Learning** [[pdf]](https://arxiv.org/pdf/2208.03948)
   - Tianxing Zhang, Hanzhou Wu, Xiaofeng Lu, Gengle Han, Guangling Sun
-  - School of Communication and Information Engineering, Shanghai University, Wenzhou Institute, Shanghai University
+  - Shanghai University, Wenzhou Institute, Shanghai University
   - Applied Sciences (2023)
 - **PLMmark: ASecure and Robust Black-Box Watermarking Framework for Pre-trained Language Models** [[pdf]](https://doi.org/10.1609/aaai.v37i12.26750)
   - Peixuan Li, Pengzhou Cheng, Fangqi Li, Wei Du, Haodong Zhao, Gongshen Liu
@@ -485,9 +481,13 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
   - Yutong Wu, Han Qiu, Tianwei Zhang, Jiwei Li, Meikang Qiu
   - Tsinghua University, Nanyang Technological University, Shannon.AI, Zhejiang University, Texas A&M University
   - Proceedings of the International Conference on Data Intelligence and Security (ICDIS 2022)
+- **PTW:Pivotal Tuning Watermarking for Pre-Trained Image Generators** [[pdf]](https://www.usenix.org/system/files/usenixsecurity23-lukas.pdf)
+  - Nils Lukas,  Florian Kerschbaum
+  - University of Waterloo
+  - Proceedings of the USENIX Security Symposium (USENIX 2023)
 - **SSL-WM: A Black-Box Watermarking Approach for Encoders Pre-trained by Self-Supervised Learning** [[pdf]](https://arxiv.org/pdf/2209.03563)
-  - Hewang Nie, Songfeng Lu
-  - Queen’s University at Kingston
+  - Peizhuo Lv, Pan Li, Shenchen Zhu, Shengzhi Zhang, Kai Chen, Ruigang Liang, Chang Yue, Fan Xiang, Yuling Cai, Hualong Ma, Yingjun Zhang, Guozhu Meng
+  - Institute of Information Engineering, Chinese Academy of Sciences, China, University of Chinese Academy of Sciences, China, Department of Computer Science, Metropolitan College, Boston University, USA, Chinese Academy of Sciences, China
   - Proceedings of the ISOC Network and Distributed System Security Symposium (NDSS 2022)
 
 
@@ -499,7 +499,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **Privacy Backdoors: Stealing Data with Corrupted Pretrained Model** [[pdf]](https://arxiv.org/pdf/2404.00473) [[code]](https://github.com/ShanglunFengatETHZ/PrivacyBackdoor)
   - Shanglun Feng, Florian Tramer
   - ETHZurich
-  - arXiv 2024
+  - Proceedings of the 41st International Conference on Machine Learning (PMLR 2024)
 - **Privacy Backdoors: Enhancing Membership Inference through Poisoning Pre-trained Models** [[pdf]](https://arxiv.org/pdf/2404.01231)
   - Yuxin Wen, Leo Marchyok, Sanghyun Hong, Jonas Geiping, Tom Goldstein, Nicholas Carlini
   - arXiv 2024
@@ -510,22 +510,22 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **GCL-Leak: Link Membership Inference Attacks against Graph Contrastive Learning** [[pdf]](https://petsymposium.org/popets/2024/popets-2024-0073.pdf)
   - Xiuling Wang, Wendy Hui Wang
   - Stevens Institute of Technology
-  - Proceedings on Privacy Enhancing Technologies (PETS 2024)
+  - Proceedings of the Privacy Enhancing Technologies (PETS 2024)
 - **A Unified Membership Inference Method for Visual Self-supervised Encoder via Part-aware Capability** [[pdf]](https://arxiv.org/pdf/2404.02462)
   - Jie Zhu, Jirong Zha, Ding Li, Leye Wang
-  - Key Lab of High Confidence Software Technologies (Peking University), Ministry of Education, China, School of Computer Science, Peking University, Beijing, China,Shenzhen International Graduate School, Tsinghua University, Shenzhen, China
+  - Ministry of Education, China, Peking University, Beijing, China, Shenzhen International Graduate School, Tsinghua University, Shenzhen, China
   - arXiv 2024
 - **Evaluating Membership Inference Through Adversarial Robustness** [[pdf]](https://arxiv.org/pdf/2205.06986) [[code]](https://github.com/plll4zzx/Evaluating-Membership-Inference-Through-Adversarial-Robustness)
-  - ZHAOXI ZHANG, LEO YU ZHANG, XUFEI ZHENG, BILAL HUSSAIN ABBASI, SHENGSHAN HU
-  - School of Computer and Information Science, Southwest University,School of Information Technology, Deakin University,School of Cyber Science and Engineering, Huazhong University of Science and Technology
+  - Zhaoxi Zhang, Leo Yu Zhang, Xufei Zheng, Bilai Hussain Abbasi, Shengshan Hu
+  - Southwest University, Deakin University, Huazhong University of Science and Technology
   - The Computer Journal (2022)
 - **EncoderMI: Membership Inference against Pre-trained Encoders in Contrastive Learning** [[pdf]](https://doi.org/10.1145/3460120.3484749)
   - Hongbin Liu, Jinyuan Jia, Wenjie Qu, Neil Zhenqiang Gong
   - Duke University, Huazhong University of Science and Technology
   - Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (SIGSAC 2021)
 - **Membership Inference Attacks Against NLP Classification Models** [[pdf]](https://openreview.net/pdf?id=74lwg5oxheC)
-  - Xiuling Wang, Wendy Hui Wang
-  - University of Massachusetts, Amherst Microsoft Research
+  - Virat Shejwalkar, Huseyin A. Inan, Amir Houmansadr, Robert Sim
+  - University of Massachusetts, Amherst, Microsoft Research
   - Proceedings of the Neural Information Processing Systems (NeurIPS 2021)
 
 ## The Other Security Issues
