@@ -85,7 +85,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
   - Institute of Information Engineering, Chinese Academy of Sciences, Nanyang Technological University, National University of Singapore, Sun Yat-sen University
   - arXiv 2023
 - **AdvCLIP: Downstream-agnostic Adversarial Examples in Multimodal Contrastive Learning** [[pdf]](https://arxiv.org/abs/2308.07026) [[code]](https://github.com/CGCL-codes/AdvCLIP)
-  * Ziqi Zhou, Shengshan Hu, Ruizhi Zhao, Qian Wang, Leo Yu Zhang, Junhui Hou, Hai Jin
+  * Ziqi Zhou, Shengshan Hu, Minghui Li, Hangtao Zhang, Yechao Zhang, Hai Jin
   * Huazhong University of Science and Technology
   * Proceedings of the ACM International Conference on Multimedia (ACM MM 2023)
 - **CodeAttack: Code-Based Adversarial Attacks for Pre-trained Programming Language Models** [[pdf]](https://arxiv.org/abs/2206.00052) [[code]](https://github.com/reddy-lab-code-research/CodeAttack)
