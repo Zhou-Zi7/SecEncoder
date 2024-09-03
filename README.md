@@ -200,7 +200,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
   - Proceedings of the International Conference on Machine Learning (ICML 2024)
 
 - **Invisible Backdoor Attacks on Key Regions Based on Target Neurons in Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2405.11551)
-  - Ning Zhang, Zhiwei Liu, Jing Liu, Zhen Liu
+  - Xiangyun Qian, Yusheng He, Rui Zhang, Zi Kang, Yilin Sheng & Hui Xia
   - Peking University, Tsinghua University, Beijing Institute of Technology
   - arXiv 2024
 
