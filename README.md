@@ -195,7 +195,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 | article numbers |  4   |  17  |  24   |
 
 - **BADFSS: Backdoor Attacks on Federated Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2405.13080)
-  - Zhihao Cheng, Yunchang Zhang, Xuxian Jiang
+  - Jiale Zhang, Chengcheng Zhu, Di Wu, Xiaobing Sun, Jianming Yong, Guodong Long
   - Huazhong University of Science and Technology, Tsinghua University, Zhejiang University
   - Proceedings of the International Conference on Machine Learning (ICML 2024)
 
