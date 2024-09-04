@@ -256,9 +256,9 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **Bypassing Backdoor Detection Algorithms in Deep Learning** [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9230390)
   - Te Juin Lester Tan, Reza Shokri
   - National University of Singapore
-  - IEEE Virtual Conference on Communications (VCC 2023)
-
-- **ESTAS: Effective and Stable Trojan Attacks in Self-supervised Encoders with One Target** [[pdf]](https://arxiv.org/abs/2211.10908)
+  - IEEE European Symposium on Security and Privacy (EuroS&P 2020)
+  
+- **ESTAS: Effective and Stable Trojan Attacks in Self-supervised Encoders with One Target Unlabelled Sample** [[pdf]](https://arxiv.org/abs/2211.10908)
   - J Xue, Q Lou
   - University of Central Florida
   - arXiv 2023
