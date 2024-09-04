@@ -291,7 +291,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **Poisoning And Backdooring Contrastive Learning** [[pdf]](https://arxiv.org/abs/2106.09667)
   - N Carlini, A Terzis
   - University of Alberta, Illinois Institute of Technology, Michigan State University
-  - arXiv 2022
+  - Proceedings of the International Conference on Learning Representations (ICLR 2022) 
 
 - **BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2108.00352)
   - J Jia, Y Liu, NZ Gong
