@@ -206,7 +206,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **SSLJBA: Joint Backdoor Attack on Both Robustness and Fairness of Self-Supervised Learning** [[pdf]](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.23899920.v1/v1)
   - Fengrui Hao, Tianlong Gu, Jionghui Jiang, Ming Liu
   - Jinan University, Guangzhou Research Institute of Information Technology
-  - TechRxiv 2024
+  - TechRxiv 2023
 
 - **Distribution Preserving Backdoor Attack in Self-supervised Learning** [[pdf]](https://www.cs.purdue.edu/homes/taog/docs/SP24.pdf)
   - Guanhong Tao, Zhenting Wang, Shiwei Feng, Guangyu Shen, Shiqing Ma, Xiangyu Zhang
