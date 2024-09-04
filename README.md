@@ -196,7 +196,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **BADFSS: Backdoor Attacks on Federated Self-Supervised Learning** [[pdf]](https://www.ijcai.org/proceedings/2024/0061.pdf)
   - Jiale Zhang, Chengcheng Zhu, Di Wu, Xiaobing Sun, Jianming Yong, Guodong Long
   - Yangzhou University, University of Southern Queensland, University of Technology Sydney
-  - Proceedings of the International Conference on Machine Learning (ICML 2024)
+  - Proceedings of the International Joint Conferences on Artificial Intelligence Organization (IJCAI 2024)
 
 - **Invisible Backdoor Attacks on Key Regions Based on Target Neurons in Self-Supervised Learning** [[pdf]](https://link.springer.com/content/pdf/10.1007/978-981-97-5498-4.pdf)
   - Xiangyun Qian, Yusheng He, Rui Zhang, Zi Kang, Yilin Sheng & Hui Xia
