@@ -231,7 +231,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **PoisonedEncoder: Poisoning the Unlabeled Pre-training Data in Contrastive Learning** [[pdf]](https://www.usenix.org/system/files/sec22-liu-hongbin.pdf)
   - H Liu, J Jia, NZ Gong
   - Duke University
-  - Proceedings of the USENIX Security Symposium (USENIX Sec 2024)
+  - Proceedings of the USENIX Security Symposium (USENIX Security 2024)
 
 - **Better Safe than Sorry: Pre-training CLIP against Targeted Data Poisoning and Backdoor Attacks** [[pdf]](https://arxiv.org/abs/2310.05862)
   - W Yang, J Gao, B Mirzasoleiman
@@ -344,7 +344,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **On the Difficulty of Defending Contrastive Learning against Backdoor Attacks** [[pdf]](https://arxiv.org/abs/2312.09057)
    - Changjiang Li, Ren Pang, Bochuan Cao, Zhaohan Xi, Jinghui Chen, Shouling Ji, Ting Wang
    - Stony Brook University, Pennsylvania State University, Zhejiang University
-   - Proceedings of the USENIX Security Symposium (USENIX Sec 2024)
+   - Proceedings of the USENIX Security Symposium (USENIX Security 2024)
      
 - **Detecting Backdoors in Pre-trained Encoders** [[pdf]](https://arxiv.org/abs/2303.15180)
    - Shiwei Feng, Guanhong Tao, Siyuan Cheng, Guangyu Shen, Xiangzhe Xu, Yingqi Liu, Kaiyuan Zhang, Shiqing Ma, Xiangyu Zhang
@@ -359,7 +359,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **ASSET: Robust Backdoor Data Detection Across a Multiplicity of Deep Learning Paradigms** [[pdf]](https://arxiv.org/abs/2302.11408) [[code]](https://github.com/ruoxi-jia-group/ASSET)
    - Minzhou Pan, Yi Zeng, Lingjuan Lyu, Xue Lin, Ruoxi Jia
    - Virginia Tech, Sony AI, Northeastern University
-   - USENIX Security Symposium (USENIX Sec 2023)
+   - USENIX Security Symposium (USENIX Security 2023)
  
 - **Defending Pre-trained Language Models as Few-shot Learners against Backdoor Attacks** [[pdf]](https://arxiv.org/abs/2309.13256)
    - Zhaohan Xi, Changjiang Li, Ren Pang, Jinghui Chen, Fenglong Ma, Ting Wang, Tianyu Du, Shouling Ji
