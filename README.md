@@ -221,7 +221,7 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
 - **Privacy Backdoors: Enhancing Membership Inference** [[pdf]](https://arxiv.org/abs/2404.01231)
   - Y Wen, L Marchyok, S Hong, J Geiping, T Goldstein, N Carlini
   - University of Maryland, Oregon State University, ELLIS Institute, Tübingen & MPI Intelligent Systems, Tübingen AI Center
-  - Proceedings of the International Conference on Learning Representations (ICLR 2024)
+  - arXiv 2024
 
 - **TransTroj: Transferable Backdoor Attacks to Pre-trained Models via Embedding Indistinguishability** [[pdf]](https://arxiv.org/abs/2401.15883)
   - H Wang, T Xiang, S Guo, J He, H Liu, T Zhang
