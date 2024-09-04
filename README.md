@@ -336,25 +336,25 @@ Here, we've summarized existing attack and defense methods for pre-trained encod
    - State Key Laboratory for Novel Software Technology, Nanjing University, Nanyang Technological University, University of New South Wales, Soochow University, Purdue University
    - arXiv 2024
 
-- **Defending Against Patch-based Backdoor Attacks on Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2304.01482)
-   - Ajinkya Tejankar, Hamed Pirsiavash, Maziar Sanjabi, Qifan Wang, Sinong Wang, Hamed Firooz, Liang Tan
-   - University of California, Davis, Meta AI
-   - arXiv 2024
-
 - **On the Difficulty of Defending Contrastive Learning against Backdoor Attacks** [[pdf]](https://arxiv.org/abs/2312.09057)
    - Changjiang Li, Ren Pang, Bochuan Cao, Zhaohan Xi, Jinghui Chen, Shouling Ji, Ting Wang
    - Stony Brook University, Pennsylvania State University, Zhejiang University
    - Proceedings of the USENIX Security Symposium (USENIX Security 2024)
      
-- **Detecting Backdoors in Pre-trained Encoders** [[pdf]](https://arxiv.org/abs/2303.15180)
-   - Shiwei Feng, Guanhong Tao, Siyuan Cheng, Guangyu Shen, Xiangzhe Xu, Yingqi Liu, Kaiyuan Zhang, Shiqing Ma, Xiangyu Zhang
-   - Purdue University, Rutgers University
-   - Proceedings of the Computer Vision and Pattern Recognition (CVPR 2024)
-
 - **Mitigating Backdoor Attacks in Pre-trained Encoders via Self-supervised Knowledge Distillation** [[pdf]](https://ieeexplore.ieee.org/abstract/document/10579882)
     - Rongfang Bie, Jinxiu Jiang, Yu Guo, Hongcheng Xie, Xiaohua Jia, Yinbin Miao
     - School of Artificial Intelligence, Beijing Normal University, City University of Hong Kong, School of Cyber Engineering, Xidian University
     - IEEE Transactions on Services Computing (2024)
+
+- **Defending Against Patch-based Backdoor Attacks on Self-Supervised Learning** [[pdf]](https://arxiv.org/abs/2304.01482)
+   - Ajinkya Tejankar, Hamed Pirsiavash, Maziar Sanjabi, Qifan Wang, Sinong Wang, Hamed Firooz, Liang Tan
+   - University of California, Davis, Meta AI
+   - Proceedings of the Computer Vision and Pattern Recognition (CVPR 2023)
+
+- **Detecting Backdoors in Pre-trained Encoders** [[pdf]](https://arxiv.org/abs/2303.15180)
+   - Shiwei Feng, Guanhong Tao, Siyuan Cheng, Guangyu Shen, Xiangzhe Xu, Yingqi Liu, Kaiyuan Zhang, Shiqing Ma, Xiangyu Zhang
+   - Purdue University, Rutgers University
+   - Proceedings of the Computer Vision and Pattern Recognition (CVPR 2023)
 
 - **ASSET: Robust Backdoor Data Detection Across a Multiplicity of Deep Learning Paradigms** [[pdf]](https://arxiv.org/abs/2302.11408) [[code]](https://github.com/ruoxi-jia-group/ASSET)
    - Minzhou Pan, Yi Zeng, Lingjuan Lyu, Xue Lin, Ruoxi Jia
